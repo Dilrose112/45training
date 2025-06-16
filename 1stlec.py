@@ -1,0 +1,8 @@
+print('hello',end="   ")
+print('bye')
+print('he',end="")
+print('lmet')
+print()
+a=input("Enter a number: ")
+print("You entered:", a)
+print("My name is dilrose \t im 19 years old")
