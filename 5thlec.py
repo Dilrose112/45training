@@ -31,7 +31,7 @@ for i in l4:
 print(sum)
 
 #Question6
-print
+print("-------------------------------------------")
 l5=['Dilrose','Maninder','Gaurav','Melvin','Sahil']
 print(l5)
 a=input("Enter a friend's name to add: ")
