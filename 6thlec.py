@@ -17,7 +17,7 @@ print(l6)
 
 #Question4
 print("-------------------------------------------")
-l5=['I am a student of BCA','I love Python','I love to play cricket','I love to play football']
+l5=['I am a student of B.Tech','I love Python','I love to play cricket','I love to play football']
 spaces=0
 for i in l5:
     spaces += i.count(' ')  
