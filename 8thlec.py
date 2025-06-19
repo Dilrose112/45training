@@ -35,7 +35,7 @@ print("------------------------------------")
 price = float(input("Enter the price of the product: "))
 if price>1000:
         discount= 0.1
-elif price>1000 and price<1000:
+elif price>500 and price<1000:
         discount = 0.05
 elif price<500:
         discount=0
@@ -46,25 +46,23 @@ print("The discounted price is: ",discounted_price)
 #Question5
 print("------------------------------------")
 passw=input("Enter your password: ")
-while True:
-    if len(passw) < 8:
-        print("Password must be at least 8 characters long.")
-        passw = input("Enter your password again: ")
-    elif not any(char.isdigit() for char in passw):
-        print("Password must contain at least one digit.")
-        passw = input("Enter your password again: ")
-    elif not any(char.isupper() for char in passw):
-        print("Password must contain at least one uppercase letter.")
-        passw = input("Enter your password again: ")
-    elif not any(char.islower() for char in passw):
-        print("Password must contain at least one lowercase letter.")
-        passw = input("Enter your password again: ")
-    elif not any(char in '!@#$%^&*()_+' for char in passw):
-        print("Password must contain at least one special character (!@#$%^&*()_+).")
-        passw = input("Enter your password again: ")
-    else:
-        print("Password is valid.")
-        break
+strength=0
+if len(passw) > 8:
+     strength += 1
+if any(char.isdigit() for char in passw):
+     strength += 1
+if any(char.isupper() for char in passw):
+        strength += 1
+if any(char.islower() for char in passw):
+        strength += 1
+if any(char in '!@#$%^&*()_+' for char in passw):
+        strength += 1
+if strength == 5:
+    print("Password is strong") 
+elif(strength<5 and strength>=3):
+    print("Password is medium")
+else:
+    print("Password is weak, please try again")
 
 #Question6
 print("------------------------------------")
