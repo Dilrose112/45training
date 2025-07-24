@@ -1,0 +1,3961 @@
+Date,District,Disease,Cases
+2020-01,Mumbai,Dengue,9
+2020-01,Mumbai,Malaria,28
+2020-01,Mumbai,Cholera,27
+2020-01,Mumbai,Typhoid,22
+2020-01,Mumbai,Tuberculosis,7
+2020-01,Mumbai,Hepatitis A,16
+2020-01,Delhi,Dengue,15
+2020-01,Delhi,Malaria,4
+2020-01,Delhi,Cholera,19
+2020-01,Delhi,Typhoid,9
+2020-01,Delhi,Tuberculosis,24
+2020-01,Delhi,Hepatitis A,10
+2020-01,Bengaluru,Dengue,10
+2020-01,Bengaluru,Malaria,18
+2020-01,Bengaluru,Cholera,32
+2020-01,Bengaluru,Typhoid,22
+2020-01,Bengaluru,Tuberculosis,1
+2020-01,Bengaluru,Hepatitis A,8
+2020-01,Hyderabad,Dengue,12
+2020-01,Hyderabad,Malaria,8
+2020-01,Hyderabad,Cholera,29
+2020-01,Hyderabad,Typhoid,16
+2020-01,Hyderabad,Tuberculosis,38
+2020-01,Hyderabad,Hepatitis A,8
+2020-01,Ahmedabad,Dengue,13
+2020-01,Ahmedabad,Malaria,27
+2020-01,Ahmedabad,Cholera,26
+2020-01,Ahmedabad,Typhoid,32
+2020-01,Ahmedabad,Tuberculosis,23
+2020-01,Ahmedabad,Hepatitis A,22
+2020-01,Chennai,Dengue,26
+2020-01,Chennai,Malaria,25
+2020-01,Chennai,Cholera,28
+2020-01,Chennai,Typhoid,12
+2020-01,Chennai,Tuberculosis,23
+2020-01,Chennai,Hepatitis A,14
+2020-01,Kolkata,Dengue,22
+2020-01,Kolkata,Malaria,18
+2020-01,Kolkata,Cholera,29
+2020-01,Kolkata,Typhoid,15
+2020-01,Kolkata,Tuberculosis,25
+2020-01,Kolkata,Hepatitis A,34
+2020-01,Pune,Dengue,5
+2020-01,Pune,Malaria,23
+2020-01,Pune,Cholera,25
+2020-01,Pune,Typhoid,7
+2020-01,Pune,Tuberculosis,17
+2020-01,Pune,Hepatitis A,3
+2020-01,Jaipur,Dengue,22
+2020-01,Jaipur,Malaria,12
+2020-01,Jaipur,Cholera,10
+2020-01,Jaipur,Typhoid,9
+2020-01,Jaipur,Tuberculosis,7
+2020-01,Jaipur,Hepatitis A,7
+2020-01,Lucknow,Dengue,11
+2020-01,Lucknow,Malaria,34
+2020-01,Lucknow,Cholera,24
+2020-01,Lucknow,Typhoid,5
+2020-01,Lucknow,Tuberculosis,25
+2020-01,Lucknow,Hepatitis A,17
+2020-02,Mumbai,Dengue,11
+2020-02,Mumbai,Malaria,15
+2020-02,Mumbai,Cholera,23
+2020-02,Mumbai,Typhoid,20
+2020-02,Mumbai,Tuberculosis,6
+2020-02,Mumbai,Hepatitis A,13
+2020-02,Delhi,Dengue,16
+2020-02,Delhi,Malaria,6
+2020-02,Delhi,Cholera,7
+2020-02,Delhi,Typhoid,14
+2020-02,Delhi,Tuberculosis,21
+2020-02,Delhi,Hepatitis A,23
+2020-02,Bengaluru,Dengue,18
+2020-02,Bengaluru,Malaria,7
+2020-02,Bengaluru,Cholera,11
+2020-02,Bengaluru,Typhoid,18
+2020-02,Bengaluru,Tuberculosis,14
+2020-02,Bengaluru,Hepatitis A,21
+2020-02,Hyderabad,Dengue,15
+2020-02,Hyderabad,Malaria,35
+2020-02,Hyderabad,Cholera,11
+2020-02,Hyderabad,Typhoid,29
+2020-02,Hyderabad,Tuberculosis,24
+2020-02,Hyderabad,Hepatitis A,16
+2020-02,Ahmedabad,Dengue,7
+2020-02,Ahmedabad,Malaria,15
+2020-02,Ahmedabad,Cholera,11
+2020-02,Ahmedabad,Typhoid,28
+2020-02,Ahmedabad,Tuberculosis,7
+2020-02,Ahmedabad,Hepatitis A,11
+2020-02,Chennai,Dengue,13
+2020-02,Chennai,Malaria,6
+2020-02,Chennai,Cholera,23
+2020-02,Chennai,Typhoid,22
+2020-02,Chennai,Tuberculosis,35
+2020-02,Chennai,Hepatitis A,20
+2020-02,Kolkata,Dengue,9
+2020-02,Kolkata,Malaria,14
+2020-02,Kolkata,Cholera,13
+2020-02,Kolkata,Typhoid,13
+2020-02,Kolkata,Tuberculosis,9
+2020-02,Kolkata,Hepatitis A,22
+2020-02,Pune,Dengue,22
+2020-02,Pune,Malaria,23
+2020-02,Pune,Cholera,17
+2020-02,Pune,Typhoid,20
+2020-02,Pune,Tuberculosis,32
+2020-02,Pune,Hepatitis A,5
+2020-02,Jaipur,Dengue,22
+2020-02,Jaipur,Malaria,13
+2020-02,Jaipur,Cholera,8
+2020-02,Jaipur,Typhoid,7
+2020-02,Jaipur,Tuberculosis,18
+2020-02,Jaipur,Hepatitis A,24
+2020-02,Lucknow,Dengue,25
+2020-02,Lucknow,Malaria,19
+2020-02,Lucknow,Cholera,5
+2020-02,Lucknow,Typhoid,12
+2020-02,Lucknow,Tuberculosis,39
+2020-02,Lucknow,Hepatitis A,6
+2020-03,Mumbai,Dengue,23
+2020-03,Mumbai,Malaria,17
+2020-03,Mumbai,Cholera,28
+2020-03,Mumbai,Typhoid,6
+2020-03,Mumbai,Tuberculosis,3
+2020-03,Mumbai,Hepatitis A,20
+2020-03,Delhi,Dengue,23
+2020-03,Delhi,Malaria,11
+2020-03,Delhi,Cholera,12
+2020-03,Delhi,Typhoid,24
+2020-03,Delhi,Tuberculosis,26
+2020-03,Delhi,Hepatitis A,24
+2020-03,Bengaluru,Dengue,32
+2020-03,Bengaluru,Malaria,17
+2020-03,Bengaluru,Cholera,19
+2020-03,Bengaluru,Typhoid,25
+2020-03,Bengaluru,Tuberculosis,20
+2020-03,Bengaluru,Hepatitis A,42
+2020-03,Hyderabad,Dengue,24
+2020-03,Hyderabad,Malaria,15
+2020-03,Hyderabad,Cholera,19
+2020-03,Hyderabad,Typhoid,16
+2020-03,Hyderabad,Tuberculosis,22
+2020-03,Hyderabad,Hepatitis A,9
+2020-03,Ahmedabad,Dengue,22
+2020-03,Ahmedabad,Malaria,22
+2020-03,Ahmedabad,Cholera,19
+2020-03,Ahmedabad,Typhoid,22
+2020-03,Ahmedabad,Tuberculosis,29
+2020-03,Ahmedabad,Hepatitis A,11
+2020-03,Chennai,Dengue,9
+2020-03,Chennai,Malaria,26
+2020-03,Chennai,Cholera,7
+2020-03,Chennai,Typhoid,35
+2020-03,Chennai,Tuberculosis,5
+2020-03,Chennai,Hepatitis A,20
+2020-03,Kolkata,Dengue,14
+2020-03,Kolkata,Malaria,9
+2020-03,Kolkata,Cholera,10
+2020-03,Kolkata,Typhoid,33
+2020-03,Kolkata,Tuberculosis,34
+2020-03,Kolkata,Hepatitis A,4
+2020-03,Pune,Dengue,29
+2020-03,Pune,Malaria,22
+2020-03,Pune,Cholera,7
+2020-03,Pune,Typhoid,7
+2020-03,Pune,Tuberculosis,5
+2020-03,Pune,Hepatitis A,4
+2020-03,Jaipur,Dengue,28
+2020-03,Jaipur,Malaria,7
+2020-03,Jaipur,Cholera,21
+2020-03,Jaipur,Typhoid,26
+2020-03,Jaipur,Tuberculosis,11
+2020-03,Jaipur,Hepatitis A,20
+2020-03,Lucknow,Dengue,10
+2020-03,Lucknow,Malaria,22
+2020-03,Lucknow,Cholera,25
+2020-03,Lucknow,Typhoid,24
+2020-03,Lucknow,Tuberculosis,4
+2020-03,Lucknow,Hepatitis A,8
+2020-04,Mumbai,Dengue,15
+2020-04,Mumbai,Malaria,34
+2020-04,Mumbai,Cholera,14
+2020-04,Mumbai,Typhoid,7
+2020-04,Mumbai,Tuberculosis,5
+2020-04,Mumbai,Hepatitis A,16
+2020-04,Delhi,Dengue,19
+2020-04,Delhi,Malaria,27
+2020-04,Delhi,Cholera,10
+2020-04,Delhi,Typhoid,9
+2020-04,Delhi,Tuberculosis,32
+2020-04,Delhi,Hepatitis A,26
+2020-04,Bengaluru,Dengue,18
+2020-04,Bengaluru,Malaria,28
+2020-04,Bengaluru,Cholera,22
+2020-04,Bengaluru,Typhoid,12
+2020-04,Bengaluru,Tuberculosis,5
+2020-04,Bengaluru,Hepatitis A,14
+2020-04,Hyderabad,Dengue,5
+2020-04,Hyderabad,Malaria,13
+2020-04,Hyderabad,Cholera,16
+2020-04,Hyderabad,Typhoid,28
+2020-04,Hyderabad,Tuberculosis,5
+2020-04,Hyderabad,Hepatitis A,17
+2020-04,Ahmedabad,Dengue,19
+2020-04,Ahmedabad,Malaria,32
+2020-04,Ahmedabad,Cholera,10
+2020-04,Ahmedabad,Typhoid,30
+2020-04,Ahmedabad,Tuberculosis,11
+2020-04,Ahmedabad,Hepatitis A,10
+2020-04,Chennai,Dengue,31
+2020-04,Chennai,Malaria,24
+2020-04,Chennai,Cholera,18
+2020-04,Chennai,Typhoid,4
+2020-04,Chennai,Tuberculosis,6
+2020-04,Chennai,Hepatitis A,22
+2020-04,Kolkata,Dengue,29
+2020-04,Kolkata,Malaria,23
+2020-04,Kolkata,Cholera,7
+2020-04,Kolkata,Typhoid,21
+2020-04,Kolkata,Tuberculosis,21
+2020-04,Kolkata,Hepatitis A,22
+2020-04,Pune,Dengue,21
+2020-04,Pune,Malaria,14
+2020-04,Pune,Cholera,9
+2020-04,Pune,Typhoid,30
+2020-04,Pune,Tuberculosis,10
+2020-04,Pune,Hepatitis A,20
+2020-04,Jaipur,Dengue,8
+2020-04,Jaipur,Malaria,19
+2020-04,Jaipur,Cholera,29
+2020-04,Jaipur,Typhoid,27
+2020-04,Jaipur,Tuberculosis,5
+2020-04,Jaipur,Hepatitis A,16
+2020-04,Lucknow,Dengue,21
+2020-04,Lucknow,Malaria,21
+2020-04,Lucknow,Cholera,21
+2020-04,Lucknow,Typhoid,19
+2020-04,Lucknow,Tuberculosis,10
+2020-04,Lucknow,Hepatitis A,36
+2020-05,Mumbai,Dengue,29
+2020-05,Mumbai,Malaria,6
+2020-05,Mumbai,Cholera,12
+2020-05,Mumbai,Typhoid,32
+2020-05,Mumbai,Tuberculosis,14
+2020-05,Mumbai,Hepatitis A,20
+2020-05,Delhi,Dengue,19
+2020-05,Delhi,Malaria,10
+2020-05,Delhi,Cholera,21
+2020-05,Delhi,Typhoid,12
+2020-05,Delhi,Tuberculosis,14
+2020-05,Delhi,Hepatitis A,8
+2020-05,Bengaluru,Dengue,20
+2020-05,Bengaluru,Malaria,11
+2020-05,Bengaluru,Cholera,16
+2020-05,Bengaluru,Typhoid,8
+2020-05,Bengaluru,Tuberculosis,8
+2020-05,Bengaluru,Hepatitis A,19
+2020-05,Hyderabad,Dengue,6
+2020-05,Hyderabad,Malaria,8
+2020-05,Hyderabad,Cholera,19
+2020-05,Hyderabad,Typhoid,27
+2020-05,Hyderabad,Tuberculosis,21
+2020-05,Hyderabad,Hepatitis A,10
+2020-05,Ahmedabad,Dengue,35
+2020-05,Ahmedabad,Malaria,11
+2020-05,Ahmedabad,Cholera,8
+2020-05,Ahmedabad,Typhoid,13
+2020-05,Ahmedabad,Tuberculosis,14
+2020-05,Ahmedabad,Hepatitis A,17
+2020-05,Chennai,Dengue,10
+2020-05,Chennai,Malaria,46
+2020-05,Chennai,Cholera,22
+2020-05,Chennai,Typhoid,24
+2020-05,Chennai,Tuberculosis,18
+2020-05,Chennai,Hepatitis A,26
+2020-05,Kolkata,Dengue,28
+2020-05,Kolkata,Malaria,12
+2020-05,Kolkata,Cholera,40
+2020-05,Kolkata,Typhoid,22
+2020-05,Kolkata,Tuberculosis,13
+2020-05,Kolkata,Hepatitis A,14
+2020-05,Pune,Dengue,16
+2020-05,Pune,Malaria,22
+2020-05,Pune,Cholera,17
+2020-05,Pune,Typhoid,11
+2020-05,Pune,Tuberculosis,16
+2020-05,Pune,Hepatitis A,19
+2020-05,Jaipur,Dengue,18
+2020-05,Jaipur,Malaria,19
+2020-05,Jaipur,Cholera,14
+2020-05,Jaipur,Typhoid,10
+2020-05,Jaipur,Tuberculosis,19
+2020-05,Jaipur,Hepatitis A,10
+2020-05,Lucknow,Dengue,28
+2020-05,Lucknow,Malaria,9
+2020-05,Lucknow,Cholera,9
+2020-05,Lucknow,Typhoid,20
+2020-05,Lucknow,Tuberculosis,15
+2020-05,Lucknow,Hepatitis A,27
+2020-06,Mumbai,Dengue,5
+2020-06,Mumbai,Malaria,5
+2020-06,Mumbai,Cholera,23
+2020-06,Mumbai,Typhoid,38
+2020-06,Mumbai,Tuberculosis,21
+2020-06,Mumbai,Hepatitis A,10
+2020-06,Delhi,Dengue,11
+2020-06,Delhi,Malaria,5
+2020-06,Delhi,Cholera,14
+2020-06,Delhi,Typhoid,15
+2020-06,Delhi,Tuberculosis,23
+2020-06,Delhi,Hepatitis A,5
+2020-06,Bengaluru,Dengue,5
+2020-06,Bengaluru,Malaria,33
+2020-06,Bengaluru,Cholera,8
+2020-06,Bengaluru,Typhoid,31
+2020-06,Bengaluru,Tuberculosis,13
+2020-06,Bengaluru,Hepatitis A,13
+2020-06,Hyderabad,Dengue,10
+2020-06,Hyderabad,Malaria,10
+2020-06,Hyderabad,Cholera,17
+2020-06,Hyderabad,Typhoid,3
+2020-06,Hyderabad,Tuberculosis,15
+2020-06,Hyderabad,Hepatitis A,17
+2020-06,Ahmedabad,Dengue,12
+2020-06,Ahmedabad,Malaria,22
+2020-06,Ahmedabad,Cholera,6
+2020-06,Ahmedabad,Typhoid,10
+2020-06,Ahmedabad,Tuberculosis,8
+2020-06,Ahmedabad,Hepatitis A,26
+2020-06,Chennai,Dengue,16
+2020-06,Chennai,Malaria,7
+2020-06,Chennai,Cholera,30
+2020-06,Chennai,Typhoid,11
+2020-06,Chennai,Tuberculosis,33
+2020-06,Chennai,Hepatitis A,19
+2020-06,Kolkata,Dengue,22
+2020-06,Kolkata,Malaria,23
+2020-06,Kolkata,Cholera,7
+2020-06,Kolkata,Typhoid,22
+2020-06,Kolkata,Tuberculosis,13
+2020-06,Kolkata,Hepatitis A,41
+2020-06,Pune,Dengue,6
+2020-06,Pune,Malaria,16
+2020-06,Pune,Cholera,31
+2020-06,Pune,Typhoid,13
+2020-06,Pune,Tuberculosis,7
+2020-06,Pune,Hepatitis A,6
+2020-06,Jaipur,Dengue,6
+2020-06,Jaipur,Malaria,13
+2020-06,Jaipur,Cholera,6
+2020-06,Jaipur,Typhoid,14
+2020-06,Jaipur,Tuberculosis,12
+2020-06,Jaipur,Hepatitis A,23
+2020-06,Lucknow,Dengue,15
+2020-06,Lucknow,Malaria,3
+2020-06,Lucknow,Cholera,29
+2020-06,Lucknow,Typhoid,17
+2020-06,Lucknow,Tuberculosis,27
+2020-06,Lucknow,Hepatitis A,11
+2020-07,Mumbai,Dengue,7
+2020-07,Mumbai,Malaria,10
+2020-07,Mumbai,Cholera,21
+2020-07,Mumbai,Typhoid,9
+2020-07,Mumbai,Tuberculosis,14
+2020-07,Mumbai,Hepatitis A,27
+2020-07,Delhi,Dengue,33
+2020-07,Delhi,Malaria,24
+2020-07,Delhi,Cholera,23
+2020-07,Delhi,Typhoid,15
+2020-07,Delhi,Tuberculosis,21
+2020-07,Delhi,Hepatitis A,5
+2020-07,Bengaluru,Dengue,6
+2020-07,Bengaluru,Malaria,3
+2020-07,Bengaluru,Cholera,6
+2020-07,Bengaluru,Typhoid,7
+2020-07,Bengaluru,Tuberculosis,16
+2020-07,Bengaluru,Hepatitis A,24
+2020-07,Hyderabad,Dengue,35
+2020-07,Hyderabad,Malaria,5
+2020-07,Hyderabad,Cholera,13
+2020-07,Hyderabad,Typhoid,5
+2020-07,Hyderabad,Tuberculosis,30
+2020-07,Hyderabad,Hepatitis A,18
+2020-07,Ahmedabad,Dengue,15
+2020-07,Ahmedabad,Malaria,8
+2020-07,Ahmedabad,Cholera,28
+2020-07,Ahmedabad,Typhoid,14
+2020-07,Ahmedabad,Tuberculosis,12
+2020-07,Ahmedabad,Hepatitis A,6
+2020-07,Chennai,Dengue,29
+2020-07,Chennai,Malaria,43
+2020-07,Chennai,Cholera,30
+2020-07,Chennai,Typhoid,18
+2020-07,Chennai,Tuberculosis,38
+2020-07,Chennai,Hepatitis A,35
+2020-07,Kolkata,Dengue,32
+2020-07,Kolkata,Malaria,17
+2020-07,Kolkata,Cholera,22
+2020-07,Kolkata,Typhoid,25
+2020-07,Kolkata,Tuberculosis,5
+2020-07,Kolkata,Hepatitis A,19
+2020-07,Pune,Dengue,17
+2020-07,Pune,Malaria,9
+2020-07,Pune,Cholera,19
+2020-07,Pune,Typhoid,13
+2020-07,Pune,Tuberculosis,6
+2020-07,Pune,Hepatitis A,29
+2020-07,Jaipur,Dengue,25
+2020-07,Jaipur,Malaria,9
+2020-07,Jaipur,Cholera,30
+2020-07,Jaipur,Typhoid,9
+2020-07,Jaipur,Tuberculosis,17
+2020-07,Jaipur,Hepatitis A,18
+2020-07,Lucknow,Dengue,18
+2020-07,Lucknow,Malaria,12
+2020-07,Lucknow,Cholera,6
+2020-07,Lucknow,Typhoid,7
+2020-07,Lucknow,Tuberculosis,13
+2020-07,Lucknow,Hepatitis A,28
+2020-08,Mumbai,Dengue,6
+2020-08,Mumbai,Malaria,16
+2020-08,Mumbai,Cholera,3
+2020-08,Mumbai,Typhoid,21
+2020-08,Mumbai,Tuberculosis,23
+2020-08,Mumbai,Hepatitis A,13
+2020-08,Delhi,Dengue,6
+2020-08,Delhi,Malaria,26
+2020-08,Delhi,Cholera,11
+2020-08,Delhi,Typhoid,24
+2020-08,Delhi,Tuberculosis,16
+2020-08,Delhi,Hepatitis A,14
+2020-08,Bengaluru,Dengue,28
+2020-08,Bengaluru,Malaria,24
+2020-08,Bengaluru,Cholera,26
+2020-08,Bengaluru,Typhoid,2
+2020-08,Bengaluru,Tuberculosis,21
+2020-08,Bengaluru,Hepatitis A,13
+2020-08,Hyderabad,Dengue,12
+2020-08,Hyderabad,Malaria,13
+2020-08,Hyderabad,Cholera,13
+2020-08,Hyderabad,Typhoid,15
+2020-08,Hyderabad,Tuberculosis,29
+2020-08,Hyderabad,Hepatitis A,5
+2020-08,Ahmedabad,Dengue,6
+2020-08,Ahmedabad,Malaria,5
+2020-08,Ahmedabad,Cholera,8
+2020-08,Ahmedabad,Typhoid,7
+2020-08,Ahmedabad,Tuberculosis,26
+2020-08,Ahmedabad,Hepatitis A,10
+2020-08,Chennai,Dengue,23
+2020-08,Chennai,Malaria,10
+2020-08,Chennai,Cholera,9
+2020-08,Chennai,Typhoid,4
+2020-08,Chennai,Tuberculosis,20
+2020-08,Chennai,Hepatitis A,9
+2020-08,Kolkata,Dengue,32
+2020-08,Kolkata,Malaria,11
+2020-08,Kolkata,Cholera,6
+2020-08,Kolkata,Typhoid,12
+2020-08,Kolkata,Tuberculosis,24
+2020-08,Kolkata,Hepatitis A,24
+2020-08,Pune,Dengue,5
+2020-08,Pune,Malaria,29
+2020-08,Pune,Cholera,36
+2020-08,Pune,Typhoid,25
+2020-08,Pune,Tuberculosis,11
+2020-08,Pune,Hepatitis A,20
+2020-08,Jaipur,Dengue,24
+2020-08,Jaipur,Malaria,11
+2020-08,Jaipur,Cholera,30
+2020-08,Jaipur,Typhoid,15
+2020-08,Jaipur,Tuberculosis,20
+2020-08,Jaipur,Hepatitis A,7
+2020-08,Lucknow,Dengue,37
+2020-08,Lucknow,Malaria,22
+2020-08,Lucknow,Cholera,24
+2020-08,Lucknow,Typhoid,35
+2020-08,Lucknow,Tuberculosis,14
+2020-08,Lucknow,Hepatitis A,22
+2020-09,Mumbai,Dengue,22
+2020-09,Mumbai,Malaria,25
+2020-09,Mumbai,Cholera,24
+2020-09,Mumbai,Typhoid,9
+2020-09,Mumbai,Tuberculosis,29
+2020-09,Mumbai,Hepatitis A,17
+2020-09,Delhi,Dengue,19
+2020-09,Delhi,Malaria,31
+2020-09,Delhi,Cholera,29
+2020-09,Delhi,Typhoid,25
+2020-09,Delhi,Tuberculosis,16
+2020-09,Delhi,Hepatitis A,24
+2020-09,Bengaluru,Dengue,17
+2020-09,Bengaluru,Malaria,24
+2020-09,Bengaluru,Cholera,10
+2020-09,Bengaluru,Typhoid,37
+2020-09,Bengaluru,Tuberculosis,17
+2020-09,Bengaluru,Hepatitis A,6
+2020-09,Hyderabad,Dengue,18
+2020-09,Hyderabad,Malaria,12
+2020-09,Hyderabad,Cholera,6
+2020-09,Hyderabad,Typhoid,19
+2020-09,Hyderabad,Tuberculosis,10
+2020-09,Hyderabad,Hepatitis A,7
+2020-09,Ahmedabad,Dengue,10
+2020-09,Ahmedabad,Malaria,9
+2020-09,Ahmedabad,Cholera,12
+2020-09,Ahmedabad,Typhoid,21
+2020-09,Ahmedabad,Tuberculosis,21
+2020-09,Ahmedabad,Hepatitis A,32
+2020-09,Chennai,Dengue,22
+2020-09,Chennai,Malaria,14
+2020-09,Chennai,Cholera,35
+2020-09,Chennai,Typhoid,14
+2020-09,Chennai,Tuberculosis,6
+2020-09,Chennai,Hepatitis A,21
+2020-09,Kolkata,Dengue,31
+2020-09,Kolkata,Malaria,15
+2020-09,Kolkata,Cholera,20
+2020-09,Kolkata,Typhoid,23
+2020-09,Kolkata,Tuberculosis,15
+2020-09,Kolkata,Hepatitis A,24
+2020-09,Pune,Dengue,15
+2020-09,Pune,Malaria,25
+2020-09,Pune,Cholera,35
+2020-09,Pune,Typhoid,11
+2020-09,Pune,Tuberculosis,31
+2020-09,Pune,Hepatitis A,11
+2020-09,Jaipur,Dengue,17
+2020-09,Jaipur,Malaria,13
+2020-09,Jaipur,Cholera,18
+2020-09,Jaipur,Typhoid,16
+2020-09,Jaipur,Tuberculosis,16
+2020-09,Jaipur,Hepatitis A,10
+2020-09,Lucknow,Dengue,22
+2020-09,Lucknow,Malaria,27
+2020-09,Lucknow,Cholera,7
+2020-09,Lucknow,Typhoid,10
+2020-09,Lucknow,Tuberculosis,8
+2020-09,Lucknow,Hepatitis A,17
+2020-10,Mumbai,Dengue,12
+2020-10,Mumbai,Malaria,14
+2020-10,Mumbai,Cholera,10
+2020-10,Mumbai,Typhoid,9
+2020-10,Mumbai,Tuberculosis,6
+2020-10,Mumbai,Hepatitis A,10
+2020-10,Delhi,Dengue,10
+2020-10,Delhi,Malaria,30
+2020-10,Delhi,Cholera,11
+2020-10,Delhi,Typhoid,6
+2020-10,Delhi,Tuberculosis,20
+2020-10,Delhi,Hepatitis A,10
+2020-10,Bengaluru,Dengue,31
+2020-10,Bengaluru,Malaria,22
+2020-10,Bengaluru,Cholera,10
+2020-10,Bengaluru,Typhoid,17
+2020-10,Bengaluru,Tuberculosis,25
+2020-10,Bengaluru,Hepatitis A,16
+2020-10,Hyderabad,Dengue,14
+2020-10,Hyderabad,Malaria,22
+2020-10,Hyderabad,Cholera,11
+2020-10,Hyderabad,Typhoid,20
+2020-10,Hyderabad,Tuberculosis,5
+2020-10,Hyderabad,Hepatitis A,7
+2020-10,Ahmedabad,Dengue,8
+2020-10,Ahmedabad,Malaria,12
+2020-10,Ahmedabad,Cholera,19
+2020-10,Ahmedabad,Typhoid,10
+2020-10,Ahmedabad,Tuberculosis,2
+2020-10,Ahmedabad,Hepatitis A,9
+2020-10,Chennai,Dengue,15
+2020-10,Chennai,Malaria,25
+2020-10,Chennai,Cholera,2
+2020-10,Chennai,Typhoid,32
+2020-10,Chennai,Tuberculosis,14
+2020-10,Chennai,Hepatitis A,26
+2020-10,Kolkata,Dengue,13
+2020-10,Kolkata,Malaria,21
+2020-10,Kolkata,Cholera,6
+2020-10,Kolkata,Typhoid,24
+2020-10,Kolkata,Tuberculosis,27
+2020-10,Kolkata,Hepatitis A,13
+2020-10,Pune,Dengue,12
+2020-10,Pune,Malaria,33
+2020-10,Pune,Cholera,20
+2020-10,Pune,Typhoid,17
+2020-10,Pune,Tuberculosis,21
+2020-10,Pune,Hepatitis A,16
+2020-10,Jaipur,Dengue,21
+2020-10,Jaipur,Malaria,26
+2020-10,Jaipur,Cholera,21
+2020-10,Jaipur,Typhoid,10
+2020-10,Jaipur,Tuberculosis,30
+2020-10,Jaipur,Hepatitis A,30
+2020-10,Lucknow,Dengue,19
+2020-10,Lucknow,Malaria,17
+2020-10,Lucknow,Cholera,22
+2020-10,Lucknow,Typhoid,12
+2020-10,Lucknow,Tuberculosis,22
+2020-10,Lucknow,Hepatitis A,7
+2020-11,Mumbai,Dengue,9
+2020-11,Mumbai,Malaria,26
+2020-11,Mumbai,Cholera,10
+2020-11,Mumbai,Typhoid,21
+2020-11,Mumbai,Tuberculosis,13
+2020-11,Mumbai,Hepatitis A,29
+2020-11,Delhi,Dengue,9
+2020-11,Delhi,Malaria,4
+2020-11,Delhi,Cholera,6
+2020-11,Delhi,Typhoid,18
+2020-11,Delhi,Tuberculosis,31
+2020-11,Delhi,Hepatitis A,12
+2020-11,Bengaluru,Dengue,10
+2020-11,Bengaluru,Malaria,18
+2020-11,Bengaluru,Cholera,18
+2020-11,Bengaluru,Typhoid,23
+2020-11,Bengaluru,Tuberculosis,27
+2020-11,Bengaluru,Hepatitis A,10
+2020-11,Hyderabad,Dengue,21
+2020-11,Hyderabad,Malaria,22
+2020-11,Hyderabad,Cholera,15
+2020-11,Hyderabad,Typhoid,20
+2020-11,Hyderabad,Tuberculosis,13
+2020-11,Hyderabad,Hepatitis A,4
+2020-11,Ahmedabad,Dengue,12
+2020-11,Ahmedabad,Malaria,14
+2020-11,Ahmedabad,Cholera,4
+2020-11,Ahmedabad,Typhoid,32
+2020-11,Ahmedabad,Tuberculosis,8
+2020-11,Ahmedabad,Hepatitis A,6
+2020-11,Chennai,Dengue,13
+2020-11,Chennai,Malaria,8
+2020-11,Chennai,Cholera,9
+2020-11,Chennai,Typhoid,22
+2020-11,Chennai,Tuberculosis,8
+2020-11,Chennai,Hepatitis A,27
+2020-11,Kolkata,Dengue,31
+2020-11,Kolkata,Malaria,32
+2020-11,Kolkata,Cholera,22
+2020-11,Kolkata,Typhoid,33
+2020-11,Kolkata,Tuberculosis,19
+2020-11,Kolkata,Hepatitis A,36
+2020-11,Pune,Dengue,33
+2020-11,Pune,Malaria,4
+2020-11,Pune,Cholera,40
+2020-11,Pune,Typhoid,18
+2020-11,Pune,Tuberculosis,22
+2020-11,Pune,Hepatitis A,11
+2020-11,Jaipur,Dengue,24
+2020-11,Jaipur,Malaria,27
+2020-11,Jaipur,Cholera,19
+2020-11,Jaipur,Typhoid,10
+2020-11,Jaipur,Tuberculosis,23
+2020-11,Jaipur,Hepatitis A,7
+2020-11,Lucknow,Dengue,11
+2020-11,Lucknow,Malaria,10
+2020-11,Lucknow,Cholera,13
+2020-11,Lucknow,Typhoid,27
+2020-11,Lucknow,Tuberculosis,23
+2020-11,Lucknow,Hepatitis A,10
+2020-12,Mumbai,Dengue,18
+2020-12,Mumbai,Malaria,10
+2020-12,Mumbai,Cholera,11
+2020-12,Mumbai,Typhoid,33
+2020-12,Mumbai,Tuberculosis,14
+2020-12,Mumbai,Hepatitis A,25
+2020-12,Delhi,Dengue,7
+2020-12,Delhi,Malaria,4
+2020-12,Delhi,Cholera,10
+2020-12,Delhi,Typhoid,15
+2020-12,Delhi,Tuberculosis,4
+2020-12,Delhi,Hepatitis A,12
+2020-12,Bengaluru,Dengue,21
+2020-12,Bengaluru,Malaria,9
+2020-12,Bengaluru,Cholera,17
+2020-12,Bengaluru,Typhoid,28
+2020-12,Bengaluru,Tuberculosis,22
+2020-12,Bengaluru,Hepatitis A,27
+2020-12,Hyderabad,Dengue,13
+2020-12,Hyderabad,Malaria,11
+2020-12,Hyderabad,Cholera,8
+2020-12,Hyderabad,Typhoid,31
+2020-12,Hyderabad,Tuberculosis,24
+2020-12,Hyderabad,Hepatitis A,20
+2020-12,Ahmedabad,Dengue,13
+2020-12,Ahmedabad,Malaria,22
+2020-12,Ahmedabad,Cholera,12
+2020-12,Ahmedabad,Typhoid,26
+2020-12,Ahmedabad,Tuberculosis,11
+2020-12,Ahmedabad,Hepatitis A,15
+2020-12,Chennai,Dengue,12
+2020-12,Chennai,Malaria,10
+2020-12,Chennai,Cholera,24
+2020-12,Chennai,Typhoid,17
+2020-12,Chennai,Tuberculosis,11
+2020-12,Chennai,Hepatitis A,8
+2020-12,Kolkata,Dengue,5
+2020-12,Kolkata,Malaria,3
+2020-12,Kolkata,Cholera,27
+2020-12,Kolkata,Typhoid,16
+2020-12,Kolkata,Tuberculosis,21
+2020-12,Kolkata,Hepatitis A,4
+2020-12,Pune,Dengue,12
+2020-12,Pune,Malaria,2
+2020-12,Pune,Cholera,12
+2020-12,Pune,Typhoid,7
+2020-12,Pune,Tuberculosis,19
+2020-12,Pune,Hepatitis A,20
+2020-12,Jaipur,Dengue,13
+2020-12,Jaipur,Malaria,23
+2020-12,Jaipur,Cholera,20
+2020-12,Jaipur,Typhoid,11
+2020-12,Jaipur,Tuberculosis,11
+2020-12,Jaipur,Hepatitis A,24
+2020-12,Lucknow,Dengue,5
+2020-12,Lucknow,Malaria,27
+2020-12,Lucknow,Cholera,23
+2020-12,Lucknow,Typhoid,19
+2020-12,Lucknow,Tuberculosis,14
+2020-12,Lucknow,Hepatitis A,20
+2021-01,Mumbai,Dengue,11
+2021-01,Mumbai,Malaria,24
+2021-01,Mumbai,Cholera,18
+2021-01,Mumbai,Typhoid,22
+2021-01,Mumbai,Tuberculosis,25
+2021-01,Mumbai,Hepatitis A,21
+2021-01,Delhi,Dengue,33
+2021-01,Delhi,Malaria,16
+2021-01,Delhi,Cholera,22
+2021-01,Delhi,Typhoid,4
+2021-01,Delhi,Tuberculosis,11
+2021-01,Delhi,Hepatitis A,14
+2021-01,Bengaluru,Dengue,10
+2021-01,Bengaluru,Malaria,12
+2021-01,Bengaluru,Cholera,15
+2021-01,Bengaluru,Typhoid,29
+2021-01,Bengaluru,Tuberculosis,7
+2021-01,Bengaluru,Hepatitis A,28
+2021-01,Hyderabad,Dengue,19
+2021-01,Hyderabad,Malaria,17
+2021-01,Hyderabad,Cholera,23
+2021-01,Hyderabad,Typhoid,4
+2021-01,Hyderabad,Tuberculosis,12
+2021-01,Hyderabad,Hepatitis A,23
+2021-01,Ahmedabad,Dengue,9
+2021-01,Ahmedabad,Malaria,8
+2021-01,Ahmedabad,Cholera,14
+2021-01,Ahmedabad,Typhoid,13
+2021-01,Ahmedabad,Tuberculosis,6
+2021-01,Ahmedabad,Hepatitis A,34
+2021-01,Chennai,Dengue,31
+2021-01,Chennai,Malaria,11
+2021-01,Chennai,Cholera,15
+2021-01,Chennai,Typhoid,8
+2021-01,Chennai,Tuberculosis,20
+2021-01,Chennai,Hepatitis A,8
+2021-01,Kolkata,Dengue,15
+2021-01,Kolkata,Malaria,15
+2021-01,Kolkata,Cholera,20
+2021-01,Kolkata,Typhoid,15
+2021-01,Kolkata,Tuberculosis,21
+2021-01,Kolkata,Hepatitis A,13
+2021-01,Pune,Dengue,28
+2021-01,Pune,Malaria,10
+2021-01,Pune,Cholera,11
+2021-01,Pune,Typhoid,17
+2021-01,Pune,Tuberculosis,13
+2021-01,Pune,Hepatitis A,18
+2021-01,Jaipur,Dengue,15
+2021-01,Jaipur,Malaria,12
+2021-01,Jaipur,Cholera,5
+2021-01,Jaipur,Typhoid,21
+2021-01,Jaipur,Tuberculosis,19
+2021-01,Jaipur,Hepatitis A,3
+2021-01,Lucknow,Dengue,23
+2021-01,Lucknow,Malaria,28
+2021-01,Lucknow,Cholera,11
+2021-01,Lucknow,Typhoid,16
+2021-01,Lucknow,Tuberculosis,14
+2021-01,Lucknow,Hepatitis A,6
+2021-02,Mumbai,Dengue,25
+2021-02,Mumbai,Malaria,14
+2021-02,Mumbai,Cholera,27
+2021-02,Mumbai,Typhoid,21
+2021-02,Mumbai,Tuberculosis,5
+2021-02,Mumbai,Hepatitis A,9
+2021-02,Delhi,Dengue,38
+2021-02,Delhi,Malaria,10
+2021-02,Delhi,Cholera,4
+2021-02,Delhi,Typhoid,21
+2021-02,Delhi,Tuberculosis,9
+2021-02,Delhi,Hepatitis A,31
+2021-02,Bengaluru,Dengue,19
+2021-02,Bengaluru,Malaria,16
+2021-02,Bengaluru,Cholera,30
+2021-02,Bengaluru,Typhoid,7
+2021-02,Bengaluru,Tuberculosis,20
+2021-02,Bengaluru,Hepatitis A,27
+2021-02,Hyderabad,Dengue,3
+2021-02,Hyderabad,Malaria,12
+2021-02,Hyderabad,Cholera,9
+2021-02,Hyderabad,Typhoid,6
+2021-02,Hyderabad,Tuberculosis,31
+2021-02,Hyderabad,Hepatitis A,18
+2021-02,Ahmedabad,Dengue,21
+2021-02,Ahmedabad,Malaria,27
+2021-02,Ahmedabad,Cholera,10
+2021-02,Ahmedabad,Typhoid,11
+2021-02,Ahmedabad,Tuberculosis,11
+2021-02,Ahmedabad,Hepatitis A,12
+2021-02,Chennai,Dengue,25
+2021-02,Chennai,Malaria,27
+2021-02,Chennai,Cholera,9
+2021-02,Chennai,Typhoid,8
+2021-02,Chennai,Tuberculosis,14
+2021-02,Chennai,Hepatitis A,8
+2021-02,Kolkata,Dengue,25
+2021-02,Kolkata,Malaria,15
+2021-02,Kolkata,Cholera,16
+2021-02,Kolkata,Typhoid,34
+2021-02,Kolkata,Tuberculosis,14
+2021-02,Kolkata,Hepatitis A,12
+2021-02,Pune,Dengue,24
+2021-02,Pune,Malaria,15
+2021-02,Pune,Cholera,12
+2021-02,Pune,Typhoid,15
+2021-02,Pune,Tuberculosis,16
+2021-02,Pune,Hepatitis A,34
+2021-02,Jaipur,Dengue,17
+2021-02,Jaipur,Malaria,12
+2021-02,Jaipur,Cholera,7
+2021-02,Jaipur,Typhoid,11
+2021-02,Jaipur,Tuberculosis,6
+2021-02,Jaipur,Hepatitis A,21
+2021-02,Lucknow,Dengue,18
+2021-02,Lucknow,Malaria,9
+2021-02,Lucknow,Cholera,15
+2021-02,Lucknow,Typhoid,28
+2021-02,Lucknow,Tuberculosis,12
+2021-02,Lucknow,Hepatitis A,9
+2021-03,Mumbai,Dengue,12
+2021-03,Mumbai,Malaria,28
+2021-03,Mumbai,Cholera,17
+2021-03,Mumbai,Typhoid,8
+2021-03,Mumbai,Tuberculosis,18
+2021-03,Mumbai,Hepatitis A,4
+2021-03,Delhi,Dengue,29
+2021-03,Delhi,Malaria,22
+2021-03,Delhi,Cholera,12
+2021-03,Delhi,Typhoid,32
+2021-03,Delhi,Tuberculosis,16
+2021-03,Delhi,Hepatitis A,22
+2021-03,Bengaluru,Dengue,24
+2021-03,Bengaluru,Malaria,19
+2021-03,Bengaluru,Cholera,19
+2021-03,Bengaluru,Typhoid,28
+2021-03,Bengaluru,Tuberculosis,19
+2021-03,Bengaluru,Hepatitis A,12
+2021-03,Hyderabad,Dengue,11
+2021-03,Hyderabad,Malaria,7
+2021-03,Hyderabad,Cholera,24
+2021-03,Hyderabad,Typhoid,8
+2021-03,Hyderabad,Tuberculosis,25
+2021-03,Hyderabad,Hepatitis A,16
+2021-03,Ahmedabad,Dengue,26
+2021-03,Ahmedabad,Malaria,6
+2021-03,Ahmedabad,Cholera,10
+2021-03,Ahmedabad,Typhoid,35
+2021-03,Ahmedabad,Tuberculosis,22
+2021-03,Ahmedabad,Hepatitis A,15
+2021-03,Chennai,Dengue,24
+2021-03,Chennai,Malaria,30
+2021-03,Chennai,Cholera,33
+2021-03,Chennai,Typhoid,26
+2021-03,Chennai,Tuberculosis,12
+2021-03,Chennai,Hepatitis A,26
+2021-03,Kolkata,Dengue,11
+2021-03,Kolkata,Malaria,13
+2021-03,Kolkata,Cholera,6
+2021-03,Kolkata,Typhoid,20
+2021-03,Kolkata,Tuberculosis,11
+2021-03,Kolkata,Hepatitis A,33
+2021-03,Pune,Dengue,27
+2021-03,Pune,Malaria,13
+2021-03,Pune,Cholera,18
+2021-03,Pune,Typhoid,20
+2021-03,Pune,Tuberculosis,7
+2021-03,Pune,Hepatitis A,12
+2021-03,Jaipur,Dengue,7
+2021-03,Jaipur,Malaria,18
+2021-03,Jaipur,Cholera,5
+2021-03,Jaipur,Typhoid,39
+2021-03,Jaipur,Tuberculosis,5
+2021-03,Jaipur,Hepatitis A,10
+2021-03,Lucknow,Dengue,8
+2021-03,Lucknow,Malaria,18
+2021-03,Lucknow,Cholera,10
+2021-03,Lucknow,Typhoid,8
+2021-03,Lucknow,Tuberculosis,31
+2021-03,Lucknow,Hepatitis A,36
+2021-04,Mumbai,Dengue,20
+2021-04,Mumbai,Malaria,3
+2021-04,Mumbai,Cholera,16
+2021-04,Mumbai,Typhoid,15
+2021-04,Mumbai,Tuberculosis,13
+2021-04,Mumbai,Hepatitis A,26
+2021-04,Delhi,Dengue,8
+2021-04,Delhi,Malaria,10
+2021-04,Delhi,Cholera,15
+2021-04,Delhi,Typhoid,13
+2021-04,Delhi,Tuberculosis,19
+2021-04,Delhi,Hepatitis A,18
+2021-04,Bengaluru,Dengue,22
+2021-04,Bengaluru,Malaria,12
+2021-04,Bengaluru,Cholera,14
+2021-04,Bengaluru,Typhoid,14
+2021-04,Bengaluru,Tuberculosis,14
+2021-04,Bengaluru,Hepatitis A,20
+2021-04,Hyderabad,Dengue,7
+2021-04,Hyderabad,Malaria,22
+2021-04,Hyderabad,Cholera,30
+2021-04,Hyderabad,Typhoid,36
+2021-04,Hyderabad,Tuberculosis,11
+2021-04,Hyderabad,Hepatitis A,29
+2021-04,Ahmedabad,Dengue,37
+2021-04,Ahmedabad,Malaria,10
+2021-04,Ahmedabad,Cholera,22
+2021-04,Ahmedabad,Typhoid,2
+2021-04,Ahmedabad,Tuberculosis,15
+2021-04,Ahmedabad,Hepatitis A,19
+2021-04,Chennai,Dengue,14
+2021-04,Chennai,Malaria,27
+2021-04,Chennai,Cholera,22
+2021-04,Chennai,Typhoid,3
+2021-04,Chennai,Tuberculosis,7
+2021-04,Chennai,Hepatitis A,16
+2021-04,Kolkata,Dengue,20
+2021-04,Kolkata,Malaria,8
+2021-04,Kolkata,Cholera,26
+2021-04,Kolkata,Typhoid,11
+2021-04,Kolkata,Tuberculosis,5
+2021-04,Kolkata,Hepatitis A,9
+2021-04,Pune,Dengue,19
+2021-04,Pune,Malaria,31
+2021-04,Pune,Cholera,15
+2021-04,Pune,Typhoid,25
+2021-04,Pune,Tuberculosis,10
+2021-04,Pune,Hepatitis A,16
+2021-04,Jaipur,Dengue,9
+2021-04,Jaipur,Malaria,5
+2021-04,Jaipur,Cholera,8
+2021-04,Jaipur,Typhoid,29
+2021-04,Jaipur,Tuberculosis,22
+2021-04,Jaipur,Hepatitis A,29
+2021-04,Lucknow,Dengue,18
+2021-04,Lucknow,Malaria,13
+2021-04,Lucknow,Cholera,13
+2021-04,Lucknow,Typhoid,18
+2021-04,Lucknow,Tuberculosis,16
+2021-04,Lucknow,Hepatitis A,33
+2021-05,Mumbai,Dengue,10
+2021-05,Mumbai,Malaria,18
+2021-05,Mumbai,Cholera,23
+2021-05,Mumbai,Typhoid,16
+2021-05,Mumbai,Tuberculosis,10
+2021-05,Mumbai,Hepatitis A,12
+2021-05,Delhi,Dengue,16
+2021-05,Delhi,Malaria,14
+2021-05,Delhi,Cholera,5
+2021-05,Delhi,Typhoid,25
+2021-05,Delhi,Tuberculosis,7
+2021-05,Delhi,Hepatitis A,25
+2021-05,Bengaluru,Dengue,10
+2021-05,Bengaluru,Malaria,12
+2021-05,Bengaluru,Cholera,13
+2021-05,Bengaluru,Typhoid,22
+2021-05,Bengaluru,Tuberculosis,15
+2021-05,Bengaluru,Hepatitis A,27
+2021-05,Hyderabad,Dengue,22
+2021-05,Hyderabad,Malaria,26
+2021-05,Hyderabad,Cholera,9
+2021-05,Hyderabad,Typhoid,10
+2021-05,Hyderabad,Tuberculosis,6
+2021-05,Hyderabad,Hepatitis A,24
+2021-05,Ahmedabad,Dengue,32
+2021-05,Ahmedabad,Malaria,38
+2021-05,Ahmedabad,Cholera,18
+2021-05,Ahmedabad,Typhoid,25
+2021-05,Ahmedabad,Tuberculosis,3
+2021-05,Ahmedabad,Hepatitis A,18
+2021-05,Chennai,Dengue,23
+2021-05,Chennai,Malaria,15
+2021-05,Chennai,Cholera,16
+2021-05,Chennai,Typhoid,16
+2021-05,Chennai,Tuberculosis,18
+2021-05,Chennai,Hepatitis A,10
+2021-05,Kolkata,Dengue,21
+2021-05,Kolkata,Malaria,2
+2021-05,Kolkata,Cholera,22
+2021-05,Kolkata,Typhoid,5
+2021-05,Kolkata,Tuberculosis,13
+2021-05,Kolkata,Hepatitis A,28
+2021-05,Pune,Dengue,28
+2021-05,Pune,Malaria,32
+2021-05,Pune,Cholera,31
+2021-05,Pune,Typhoid,28
+2021-05,Pune,Tuberculosis,11
+2021-05,Pune,Hepatitis A,11
+2021-05,Jaipur,Dengue,7
+2021-05,Jaipur,Malaria,8
+2021-05,Jaipur,Cholera,3
+2021-05,Jaipur,Typhoid,7
+2021-05,Jaipur,Tuberculosis,15
+2021-05,Jaipur,Hepatitis A,22
+2021-05,Lucknow,Dengue,12
+2021-05,Lucknow,Malaria,11
+2021-05,Lucknow,Cholera,18
+2021-05,Lucknow,Typhoid,28
+2021-05,Lucknow,Tuberculosis,5
+2021-05,Lucknow,Hepatitis A,17
+2021-06,Mumbai,Dengue,17
+2021-06,Mumbai,Malaria,18
+2021-06,Mumbai,Cholera,4
+2021-06,Mumbai,Typhoid,27
+2021-06,Mumbai,Tuberculosis,15
+2021-06,Mumbai,Hepatitis A,8
+2021-06,Delhi,Dengue,18
+2021-06,Delhi,Malaria,29
+2021-06,Delhi,Cholera,19
+2021-06,Delhi,Typhoid,36
+2021-06,Delhi,Tuberculosis,8
+2021-06,Delhi,Hepatitis A,9
+2021-06,Bengaluru,Dengue,30
+2021-06,Bengaluru,Malaria,24
+2021-06,Bengaluru,Cholera,14
+2021-06,Bengaluru,Typhoid,24
+2021-06,Bengaluru,Tuberculosis,22
+2021-06,Bengaluru,Hepatitis A,11
+2021-06,Hyderabad,Dengue,26
+2021-06,Hyderabad,Malaria,25
+2021-06,Hyderabad,Cholera,25
+2021-06,Hyderabad,Typhoid,22
+2021-06,Hyderabad,Tuberculosis,19
+2021-06,Hyderabad,Hepatitis A,4
+2021-06,Ahmedabad,Dengue,24
+2021-06,Ahmedabad,Malaria,10
+2021-06,Ahmedabad,Cholera,20
+2021-06,Ahmedabad,Typhoid,31
+2021-06,Ahmedabad,Tuberculosis,29
+2021-06,Ahmedabad,Hepatitis A,21
+2021-06,Chennai,Dengue,2
+2021-06,Chennai,Malaria,22
+2021-06,Chennai,Cholera,20
+2021-06,Chennai,Typhoid,4
+2021-06,Chennai,Tuberculosis,8
+2021-06,Chennai,Hepatitis A,16
+2021-06,Kolkata,Dengue,17
+2021-06,Kolkata,Malaria,12
+2021-06,Kolkata,Cholera,6
+2021-06,Kolkata,Typhoid,23
+2021-06,Kolkata,Tuberculosis,17
+2021-06,Kolkata,Hepatitis A,21
+2021-06,Pune,Dengue,21
+2021-06,Pune,Malaria,6
+2021-06,Pune,Cholera,24
+2021-06,Pune,Typhoid,10
+2021-06,Pune,Tuberculosis,30
+2021-06,Pune,Hepatitis A,13
+2021-06,Jaipur,Dengue,12
+2021-06,Jaipur,Malaria,17
+2021-06,Jaipur,Cholera,7
+2021-06,Jaipur,Typhoid,24
+2021-06,Jaipur,Tuberculosis,22
+2021-06,Jaipur,Hepatitis A,21
+2021-06,Lucknow,Dengue,7
+2021-06,Lucknow,Malaria,13
+2021-06,Lucknow,Cholera,10
+2021-06,Lucknow,Typhoid,10
+2021-06,Lucknow,Tuberculosis,13
+2021-06,Lucknow,Hepatitis A,16
+2021-07,Mumbai,Dengue,7
+2021-07,Mumbai,Malaria,15
+2021-07,Mumbai,Cholera,23
+2021-07,Mumbai,Typhoid,25
+2021-07,Mumbai,Tuberculosis,34
+2021-07,Mumbai,Hepatitis A,12
+2021-07,Delhi,Dengue,19
+2021-07,Delhi,Malaria,9
+2021-07,Delhi,Cholera,23
+2021-07,Delhi,Typhoid,17
+2021-07,Delhi,Tuberculosis,20
+2021-07,Delhi,Hepatitis A,7
+2021-07,Bengaluru,Dengue,12
+2021-07,Bengaluru,Malaria,14
+2021-07,Bengaluru,Cholera,9
+2021-07,Bengaluru,Typhoid,8
+2021-07,Bengaluru,Tuberculosis,26
+2021-07,Bengaluru,Hepatitis A,12
+2021-07,Hyderabad,Dengue,26
+2021-07,Hyderabad,Malaria,28
+2021-07,Hyderabad,Cholera,20
+2021-07,Hyderabad,Typhoid,29
+2021-07,Hyderabad,Tuberculosis,16
+2021-07,Hyderabad,Hepatitis A,33
+2021-07,Ahmedabad,Dengue,23
+2021-07,Ahmedabad,Malaria,12
+2021-07,Ahmedabad,Cholera,3
+2021-07,Ahmedabad,Typhoid,5
+2021-07,Ahmedabad,Tuberculosis,19
+2021-07,Ahmedabad,Hepatitis A,6
+2021-07,Chennai,Dengue,19
+2021-07,Chennai,Malaria,8
+2021-07,Chennai,Cholera,12
+2021-07,Chennai,Typhoid,25
+2021-07,Chennai,Tuberculosis,28
+2021-07,Chennai,Hepatitis A,24
+2021-07,Kolkata,Dengue,7
+2021-07,Kolkata,Malaria,15
+2021-07,Kolkata,Cholera,11
+2021-07,Kolkata,Typhoid,10
+2021-07,Kolkata,Tuberculosis,32
+2021-07,Kolkata,Hepatitis A,26
+2021-07,Pune,Dengue,19
+2021-07,Pune,Malaria,14
+2021-07,Pune,Cholera,23
+2021-07,Pune,Typhoid,3
+2021-07,Pune,Tuberculosis,5
+2021-07,Pune,Hepatitis A,15
+2021-07,Jaipur,Dengue,19
+2021-07,Jaipur,Malaria,10
+2021-07,Jaipur,Cholera,23
+2021-07,Jaipur,Typhoid,13
+2021-07,Jaipur,Tuberculosis,29
+2021-07,Jaipur,Hepatitis A,30
+2021-07,Lucknow,Dengue,27
+2021-07,Lucknow,Malaria,19
+2021-07,Lucknow,Cholera,24
+2021-07,Lucknow,Typhoid,26
+2021-07,Lucknow,Tuberculosis,10
+2021-07,Lucknow,Hepatitis A,5
+2021-08,Mumbai,Dengue,23
+2021-08,Mumbai,Malaria,9
+2021-08,Mumbai,Cholera,13
+2021-08,Mumbai,Typhoid,21
+2021-08,Mumbai,Tuberculosis,24
+2021-08,Mumbai,Hepatitis A,8
+2021-08,Delhi,Dengue,17
+2021-08,Delhi,Malaria,14
+2021-08,Delhi,Cholera,24
+2021-08,Delhi,Typhoid,6
+2021-08,Delhi,Tuberculosis,31
+2021-08,Delhi,Hepatitis A,17
+2021-08,Bengaluru,Dengue,32
+2021-08,Bengaluru,Malaria,22
+2021-08,Bengaluru,Cholera,16
+2021-08,Bengaluru,Typhoid,30
+2021-08,Bengaluru,Tuberculosis,9
+2021-08,Bengaluru,Hepatitis A,11
+2021-08,Hyderabad,Dengue,33
+2021-08,Hyderabad,Malaria,26
+2021-08,Hyderabad,Cholera,9
+2021-08,Hyderabad,Typhoid,4
+2021-08,Hyderabad,Tuberculosis,23
+2021-08,Hyderabad,Hepatitis A,33
+2021-08,Ahmedabad,Dengue,14
+2021-08,Ahmedabad,Malaria,9
+2021-08,Ahmedabad,Cholera,13
+2021-08,Ahmedabad,Typhoid,12
+2021-08,Ahmedabad,Tuberculosis,5
+2021-08,Ahmedabad,Hepatitis A,4
+2021-08,Chennai,Dengue,7
+2021-08,Chennai,Malaria,9
+2021-08,Chennai,Cholera,9
+2021-08,Chennai,Typhoid,11
+2021-08,Chennai,Tuberculosis,8
+2021-08,Chennai,Hepatitis A,16
+2021-08,Kolkata,Dengue,11
+2021-08,Kolkata,Malaria,31
+2021-08,Kolkata,Cholera,9
+2021-08,Kolkata,Typhoid,6
+2021-08,Kolkata,Tuberculosis,29
+2021-08,Kolkata,Hepatitis A,21
+2021-08,Pune,Dengue,9
+2021-08,Pune,Malaria,18
+2021-08,Pune,Cholera,8
+2021-08,Pune,Typhoid,23
+2021-08,Pune,Tuberculosis,37
+2021-08,Pune,Hepatitis A,17
+2021-08,Jaipur,Dengue,12
+2021-08,Jaipur,Malaria,23
+2021-08,Jaipur,Cholera,15
+2021-08,Jaipur,Typhoid,6
+2021-08,Jaipur,Tuberculosis,13
+2021-08,Jaipur,Hepatitis A,26
+2021-08,Lucknow,Dengue,7
+2021-08,Lucknow,Malaria,23
+2021-08,Lucknow,Cholera,18
+2021-08,Lucknow,Typhoid,7
+2021-08,Lucknow,Tuberculosis,4
+2021-08,Lucknow,Hepatitis A,31
+2021-09,Mumbai,Dengue,25
+2021-09,Mumbai,Malaria,17
+2021-09,Mumbai,Cholera,15
+2021-09,Mumbai,Typhoid,24
+2021-09,Mumbai,Tuberculosis,20
+2021-09,Mumbai,Hepatitis A,9
+2021-09,Delhi,Dengue,37
+2021-09,Delhi,Malaria,8
+2021-09,Delhi,Cholera,4
+2021-09,Delhi,Typhoid,12
+2021-09,Delhi,Tuberculosis,16
+2021-09,Delhi,Hepatitis A,8
+2021-09,Bengaluru,Dengue,28
+2021-09,Bengaluru,Malaria,6
+2021-09,Bengaluru,Cholera,31
+2021-09,Bengaluru,Typhoid,21
+2021-09,Bengaluru,Tuberculosis,14
+2021-09,Bengaluru,Hepatitis A,22
+2021-09,Hyderabad,Dengue,18
+2021-09,Hyderabad,Malaria,23
+2021-09,Hyderabad,Cholera,20
+2021-09,Hyderabad,Typhoid,21
+2021-09,Hyderabad,Tuberculosis,21
+2021-09,Hyderabad,Hepatitis A,19
+2021-09,Ahmedabad,Dengue,32
+2021-09,Ahmedabad,Malaria,21
+2021-09,Ahmedabad,Cholera,23
+2021-09,Ahmedabad,Typhoid,8
+2021-09,Ahmedabad,Tuberculosis,21
+2021-09,Ahmedabad,Hepatitis A,17
+2021-09,Chennai,Dengue,33
+2021-09,Chennai,Malaria,32
+2021-09,Chennai,Cholera,8
+2021-09,Chennai,Typhoid,31
+2021-09,Chennai,Tuberculosis,8
+2021-09,Chennai,Hepatitis A,12
+2021-09,Kolkata,Dengue,6
+2021-09,Kolkata,Malaria,23
+2021-09,Kolkata,Cholera,18
+2021-09,Kolkata,Typhoid,6
+2021-09,Kolkata,Tuberculosis,29
+2021-09,Kolkata,Hepatitis A,5
+2021-09,Pune,Dengue,17
+2021-09,Pune,Malaria,11
+2021-09,Pune,Cholera,12
+2021-09,Pune,Typhoid,14
+2021-09,Pune,Tuberculosis,25
+2021-09,Pune,Hepatitis A,5
+2021-09,Jaipur,Dengue,8
+2021-09,Jaipur,Malaria,21
+2021-09,Jaipur,Cholera,21
+2021-09,Jaipur,Typhoid,15
+2021-09,Jaipur,Tuberculosis,13
+2021-09,Jaipur,Hepatitis A,23
+2021-09,Lucknow,Dengue,21
+2021-09,Lucknow,Malaria,23
+2021-09,Lucknow,Cholera,26
+2021-09,Lucknow,Typhoid,35
+2021-09,Lucknow,Tuberculosis,16
+2021-09,Lucknow,Hepatitis A,18
+2021-10,Mumbai,Dengue,13
+2021-10,Mumbai,Malaria,13
+2021-10,Mumbai,Cholera,7
+2021-10,Mumbai,Typhoid,21
+2021-10,Mumbai,Tuberculosis,15
+2021-10,Mumbai,Hepatitis A,16
+2021-10,Delhi,Dengue,8
+2021-10,Delhi,Malaria,35
+2021-10,Delhi,Cholera,29
+2021-10,Delhi,Typhoid,27
+2021-10,Delhi,Tuberculosis,10
+2021-10,Delhi,Hepatitis A,20
+2021-10,Bengaluru,Dengue,6
+2021-10,Bengaluru,Malaria,27
+2021-10,Bengaluru,Cholera,20
+2021-10,Bengaluru,Typhoid,16
+2021-10,Bengaluru,Tuberculosis,4
+2021-10,Bengaluru,Hepatitis A,15
+2021-10,Hyderabad,Dengue,28
+2021-10,Hyderabad,Malaria,7
+2021-10,Hyderabad,Cholera,27
+2021-10,Hyderabad,Typhoid,23
+2021-10,Hyderabad,Tuberculosis,11
+2021-10,Hyderabad,Hepatitis A,7
+2021-10,Ahmedabad,Dengue,29
+2021-10,Ahmedabad,Malaria,5
+2021-10,Ahmedabad,Cholera,17
+2021-10,Ahmedabad,Typhoid,8
+2021-10,Ahmedabad,Tuberculosis,32
+2021-10,Ahmedabad,Hepatitis A,22
+2021-10,Chennai,Dengue,4
+2021-10,Chennai,Malaria,23
+2021-10,Chennai,Cholera,16
+2021-10,Chennai,Typhoid,14
+2021-10,Chennai,Tuberculosis,6
+2021-10,Chennai,Hepatitis A,8
+2021-10,Kolkata,Dengue,24
+2021-10,Kolkata,Malaria,16
+2021-10,Kolkata,Cholera,11
+2021-10,Kolkata,Typhoid,22
+2021-10,Kolkata,Tuberculosis,12
+2021-10,Kolkata,Hepatitis A,9
+2021-10,Pune,Dengue,29
+2021-10,Pune,Malaria,26
+2021-10,Pune,Cholera,10
+2021-10,Pune,Typhoid,3
+2021-10,Pune,Tuberculosis,30
+2021-10,Pune,Hepatitis A,29
+2021-10,Jaipur,Dengue,25
+2021-10,Jaipur,Malaria,27
+2021-10,Jaipur,Cholera,7
+2021-10,Jaipur,Typhoid,23
+2021-10,Jaipur,Tuberculosis,19
+2021-10,Jaipur,Hepatitis A,16
+2021-10,Lucknow,Dengue,26
+2021-10,Lucknow,Malaria,9
+2021-10,Lucknow,Cholera,25
+2021-10,Lucknow,Typhoid,10
+2021-10,Lucknow,Tuberculosis,27
+2021-10,Lucknow,Hepatitis A,20
+2021-11,Mumbai,Dengue,2
+2021-11,Mumbai,Malaria,9
+2021-11,Mumbai,Cholera,27
+2021-11,Mumbai,Typhoid,12
+2021-11,Mumbai,Tuberculosis,10
+2021-11,Mumbai,Hepatitis A,4
+2021-11,Delhi,Dengue,19
+2021-11,Delhi,Malaria,25
+2021-11,Delhi,Cholera,17
+2021-11,Delhi,Typhoid,13
+2021-11,Delhi,Tuberculosis,11
+2021-11,Delhi,Hepatitis A,30
+2021-11,Bengaluru,Dengue,15
+2021-11,Bengaluru,Malaria,12
+2021-11,Bengaluru,Cholera,26
+2021-11,Bengaluru,Typhoid,11
+2021-11,Bengaluru,Tuberculosis,12
+2021-11,Bengaluru,Hepatitis A,22
+2021-11,Hyderabad,Dengue,8
+2021-11,Hyderabad,Malaria,5
+2021-11,Hyderabad,Cholera,6
+2021-11,Hyderabad,Typhoid,20
+2021-11,Hyderabad,Tuberculosis,19
+2021-11,Hyderabad,Hepatitis A,22
+2021-11,Ahmedabad,Dengue,38
+2021-11,Ahmedabad,Malaria,6
+2021-11,Ahmedabad,Cholera,34
+2021-11,Ahmedabad,Typhoid,10
+2021-11,Ahmedabad,Tuberculosis,8
+2021-11,Ahmedabad,Hepatitis A,12
+2021-11,Chennai,Dengue,14
+2021-11,Chennai,Malaria,8
+2021-11,Chennai,Cholera,20
+2021-11,Chennai,Typhoid,24
+2021-11,Chennai,Tuberculosis,35
+2021-11,Chennai,Hepatitis A,16
+2021-11,Kolkata,Dengue,10
+2021-11,Kolkata,Malaria,19
+2021-11,Kolkata,Cholera,12
+2021-11,Kolkata,Typhoid,12
+2021-11,Kolkata,Tuberculosis,13
+2021-11,Kolkata,Hepatitis A,10
+2021-11,Pune,Dengue,26
+2021-11,Pune,Malaria,14
+2021-11,Pune,Cholera,31
+2021-11,Pune,Typhoid,5
+2021-11,Pune,Tuberculosis,18
+2021-11,Pune,Hepatitis A,19
+2021-11,Jaipur,Dengue,19
+2021-11,Jaipur,Malaria,18
+2021-11,Jaipur,Cholera,19
+2021-11,Jaipur,Typhoid,16
+2021-11,Jaipur,Tuberculosis,9
+2021-11,Jaipur,Hepatitis A,14
+2021-11,Lucknow,Dengue,13
+2021-11,Lucknow,Malaria,12
+2021-11,Lucknow,Cholera,7
+2021-11,Lucknow,Typhoid,16
+2021-11,Lucknow,Tuberculosis,6
+2021-11,Lucknow,Hepatitis A,4
+2021-12,Mumbai,Dengue,10
+2021-12,Mumbai,Malaria,3
+2021-12,Mumbai,Cholera,11
+2021-12,Mumbai,Typhoid,26
+2021-12,Mumbai,Tuberculosis,6
+2021-12,Mumbai,Hepatitis A,23
+2021-12,Delhi,Dengue,4
+2021-12,Delhi,Malaria,33
+2021-12,Delhi,Cholera,10
+2021-12,Delhi,Typhoid,23
+2021-12,Delhi,Tuberculosis,2
+2021-12,Delhi,Hepatitis A,28
+2021-12,Bengaluru,Dengue,12
+2021-12,Bengaluru,Malaria,7
+2021-12,Bengaluru,Cholera,20
+2021-12,Bengaluru,Typhoid,19
+2021-12,Bengaluru,Tuberculosis,35
+2021-12,Bengaluru,Hepatitis A,17
+2021-12,Hyderabad,Dengue,6
+2021-12,Hyderabad,Malaria,28
+2021-12,Hyderabad,Cholera,28
+2021-12,Hyderabad,Typhoid,7
+2021-12,Hyderabad,Tuberculosis,23
+2021-12,Hyderabad,Hepatitis A,40
+2021-12,Ahmedabad,Dengue,26
+2021-12,Ahmedabad,Malaria,12
+2021-12,Ahmedabad,Cholera,20
+2021-12,Ahmedabad,Typhoid,9
+2021-12,Ahmedabad,Tuberculosis,1
+2021-12,Ahmedabad,Hepatitis A,17
+2021-12,Chennai,Dengue,24
+2021-12,Chennai,Malaria,26
+2021-12,Chennai,Cholera,1
+2021-12,Chennai,Typhoid,6
+2021-12,Chennai,Tuberculosis,13
+2021-12,Chennai,Hepatitis A,6
+2021-12,Kolkata,Dengue,24
+2021-12,Kolkata,Malaria,17
+2021-12,Kolkata,Cholera,13
+2021-12,Kolkata,Typhoid,9
+2021-12,Kolkata,Tuberculosis,17
+2021-12,Kolkata,Hepatitis A,19
+2021-12,Pune,Dengue,12
+2021-12,Pune,Malaria,7
+2021-12,Pune,Cholera,19
+2021-12,Pune,Typhoid,5
+2021-12,Pune,Tuberculosis,25
+2021-12,Pune,Hepatitis A,24
+2021-12,Jaipur,Dengue,34
+2021-12,Jaipur,Malaria,25
+2021-12,Jaipur,Cholera,29
+2021-12,Jaipur,Typhoid,15
+2021-12,Jaipur,Tuberculosis,24
+2021-12,Jaipur,Hepatitis A,8
+2021-12,Lucknow,Dengue,8
+2021-12,Lucknow,Malaria,24
+2021-12,Lucknow,Cholera,26
+2021-12,Lucknow,Typhoid,14
+2021-12,Lucknow,Tuberculosis,20
+2021-12,Lucknow,Hepatitis A,38
+2022-01,Mumbai,Dengue,26
+2022-01,Mumbai,Malaria,16
+2022-01,Mumbai,Cholera,30
+2022-01,Mumbai,Typhoid,18
+2022-01,Mumbai,Tuberculosis,14
+2022-01,Mumbai,Hepatitis A,28
+2022-01,Delhi,Dengue,8
+2022-01,Delhi,Malaria,15
+2022-01,Delhi,Cholera,11
+2022-01,Delhi,Typhoid,27
+2022-01,Delhi,Tuberculosis,9
+2022-01,Delhi,Hepatitis A,5
+2022-01,Bengaluru,Dengue,16
+2022-01,Bengaluru,Malaria,19
+2022-01,Bengaluru,Cholera,20
+2022-01,Bengaluru,Typhoid,18
+2022-01,Bengaluru,Tuberculosis,24
+2022-01,Bengaluru,Hepatitis A,9
+2022-01,Hyderabad,Dengue,31
+2022-01,Hyderabad,Malaria,27
+2022-01,Hyderabad,Cholera,19
+2022-01,Hyderabad,Typhoid,11
+2022-01,Hyderabad,Tuberculosis,4
+2022-01,Hyderabad,Hepatitis A,13
+2022-01,Ahmedabad,Dengue,8
+2022-01,Ahmedabad,Malaria,10
+2022-01,Ahmedabad,Cholera,12
+2022-01,Ahmedabad,Typhoid,38
+2022-01,Ahmedabad,Tuberculosis,22
+2022-01,Ahmedabad,Hepatitis A,16
+2022-01,Chennai,Dengue,28
+2022-01,Chennai,Malaria,9
+2022-01,Chennai,Cholera,24
+2022-01,Chennai,Typhoid,31
+2022-01,Chennai,Tuberculosis,16
+2022-01,Chennai,Hepatitis A,8
+2022-01,Kolkata,Dengue,39
+2022-01,Kolkata,Malaria,25
+2022-01,Kolkata,Cholera,20
+2022-01,Kolkata,Typhoid,23
+2022-01,Kolkata,Tuberculosis,7
+2022-01,Kolkata,Hepatitis A,3
+2022-01,Pune,Dengue,33
+2022-01,Pune,Malaria,9
+2022-01,Pune,Cholera,7
+2022-01,Pune,Typhoid,9
+2022-01,Pune,Tuberculosis,6
+2022-01,Pune,Hepatitis A,18
+2022-01,Jaipur,Dengue,9
+2022-01,Jaipur,Malaria,12
+2022-01,Jaipur,Cholera,11
+2022-01,Jaipur,Typhoid,28
+2022-01,Jaipur,Tuberculosis,24
+2022-01,Jaipur,Hepatitis A,15
+2022-01,Lucknow,Dengue,15
+2022-01,Lucknow,Malaria,25
+2022-01,Lucknow,Cholera,23
+2022-01,Lucknow,Typhoid,25
+2022-01,Lucknow,Tuberculosis,14
+2022-01,Lucknow,Hepatitis A,11
+2022-02,Mumbai,Dengue,15
+2022-02,Mumbai,Malaria,14
+2022-02,Mumbai,Cholera,25
+2022-02,Mumbai,Typhoid,7
+2022-02,Mumbai,Tuberculosis,6
+2022-02,Mumbai,Hepatitis A,15
+2022-02,Delhi,Dengue,31
+2022-02,Delhi,Malaria,21
+2022-02,Delhi,Cholera,20
+2022-02,Delhi,Typhoid,28
+2022-02,Delhi,Tuberculosis,10
+2022-02,Delhi,Hepatitis A,5
+2022-02,Bengaluru,Dengue,30
+2022-02,Bengaluru,Malaria,24
+2022-02,Bengaluru,Cholera,5
+2022-02,Bengaluru,Typhoid,20
+2022-02,Bengaluru,Tuberculosis,3
+2022-02,Bengaluru,Hepatitis A,22
+2022-02,Hyderabad,Dengue,12
+2022-02,Hyderabad,Malaria,5
+2022-02,Hyderabad,Cholera,9
+2022-02,Hyderabad,Typhoid,21
+2022-02,Hyderabad,Tuberculosis,23
+2022-02,Hyderabad,Hepatitis A,22
+2022-02,Ahmedabad,Dengue,13
+2022-02,Ahmedabad,Malaria,2
+2022-02,Ahmedabad,Cholera,23
+2022-02,Ahmedabad,Typhoid,7
+2022-02,Ahmedabad,Tuberculosis,7
+2022-02,Ahmedabad,Hepatitis A,5
+2022-02,Chennai,Dengue,22
+2022-02,Chennai,Malaria,14
+2022-02,Chennai,Cholera,17
+2022-02,Chennai,Typhoid,13
+2022-02,Chennai,Tuberculosis,7
+2022-02,Chennai,Hepatitis A,9
+2022-02,Kolkata,Dengue,5
+2022-02,Kolkata,Malaria,8
+2022-02,Kolkata,Cholera,28
+2022-02,Kolkata,Typhoid,21
+2022-02,Kolkata,Tuberculosis,8
+2022-02,Kolkata,Hepatitis A,28
+2022-02,Pune,Dengue,29
+2022-02,Pune,Malaria,26
+2022-02,Pune,Cholera,12
+2022-02,Pune,Typhoid,11
+2022-02,Pune,Tuberculosis,13
+2022-02,Pune,Hepatitis A,34
+2022-02,Jaipur,Dengue,3
+2022-02,Jaipur,Malaria,5
+2022-02,Jaipur,Cholera,10
+2022-02,Jaipur,Typhoid,23
+2022-02,Jaipur,Tuberculosis,19
+2022-02,Jaipur,Hepatitis A,12
+2022-02,Lucknow,Dengue,19
+2022-02,Lucknow,Malaria,29
+2022-02,Lucknow,Cholera,9
+2022-02,Lucknow,Typhoid,3
+2022-02,Lucknow,Tuberculosis,16
+2022-02,Lucknow,Hepatitis A,9
+2022-03,Mumbai,Dengue,37
+2022-03,Mumbai,Malaria,12
+2022-03,Mumbai,Cholera,20
+2022-03,Mumbai,Typhoid,21
+2022-03,Mumbai,Tuberculosis,24
+2022-03,Mumbai,Hepatitis A,32
+2022-03,Delhi,Dengue,19
+2022-03,Delhi,Malaria,7
+2022-03,Delhi,Cholera,18
+2022-03,Delhi,Typhoid,9
+2022-03,Delhi,Tuberculosis,22
+2022-03,Delhi,Hepatitis A,16
+2022-03,Bengaluru,Dengue,26
+2022-03,Bengaluru,Malaria,16
+2022-03,Bengaluru,Cholera,23
+2022-03,Bengaluru,Typhoid,8
+2022-03,Bengaluru,Tuberculosis,30
+2022-03,Bengaluru,Hepatitis A,28
+2022-03,Hyderabad,Dengue,5
+2022-03,Hyderabad,Malaria,17
+2022-03,Hyderabad,Cholera,11
+2022-03,Hyderabad,Typhoid,7
+2022-03,Hyderabad,Tuberculosis,24
+2022-03,Hyderabad,Hepatitis A,16
+2022-03,Ahmedabad,Dengue,7
+2022-03,Ahmedabad,Malaria,11
+2022-03,Ahmedabad,Cholera,17
+2022-03,Ahmedabad,Typhoid,17
+2022-03,Ahmedabad,Tuberculosis,31
+2022-03,Ahmedabad,Hepatitis A,25
+2022-03,Chennai,Dengue,9
+2022-03,Chennai,Malaria,24
+2022-03,Chennai,Cholera,10
+2022-03,Chennai,Typhoid,24
+2022-03,Chennai,Tuberculosis,25
+2022-03,Chennai,Hepatitis A,18
+2022-03,Kolkata,Dengue,10
+2022-03,Kolkata,Malaria,8
+2022-03,Kolkata,Cholera,13
+2022-03,Kolkata,Typhoid,27
+2022-03,Kolkata,Tuberculosis,7
+2022-03,Kolkata,Hepatitis A,20
+2022-03,Pune,Dengue,21
+2022-03,Pune,Malaria,17
+2022-03,Pune,Cholera,4
+2022-03,Pune,Typhoid,28
+2022-03,Pune,Tuberculosis,26
+2022-03,Pune,Hepatitis A,9
+2022-03,Jaipur,Dengue,16
+2022-03,Jaipur,Malaria,17
+2022-03,Jaipur,Cholera,12
+2022-03,Jaipur,Typhoid,17
+2022-03,Jaipur,Tuberculosis,24
+2022-03,Jaipur,Hepatitis A,14
+2022-03,Lucknow,Dengue,32
+2022-03,Lucknow,Malaria,13
+2022-03,Lucknow,Cholera,31
+2022-03,Lucknow,Typhoid,13
+2022-03,Lucknow,Tuberculosis,8
+2022-03,Lucknow,Hepatitis A,16
+2022-04,Mumbai,Dengue,20
+2022-04,Mumbai,Malaria,22
+2022-04,Mumbai,Cholera,19
+2022-04,Mumbai,Typhoid,8
+2022-04,Mumbai,Tuberculosis,11
+2022-04,Mumbai,Hepatitis A,32
+2022-04,Delhi,Dengue,15
+2022-04,Delhi,Malaria,22
+2022-04,Delhi,Cholera,23
+2022-04,Delhi,Typhoid,17
+2022-04,Delhi,Tuberculosis,16
+2022-04,Delhi,Hepatitis A,9
+2022-04,Bengaluru,Dengue,14
+2022-04,Bengaluru,Malaria,12
+2022-04,Bengaluru,Cholera,13
+2022-04,Bengaluru,Typhoid,27
+2022-04,Bengaluru,Tuberculosis,17
+2022-04,Bengaluru,Hepatitis A,22
+2022-04,Hyderabad,Dengue,19
+2022-04,Hyderabad,Malaria,9
+2022-04,Hyderabad,Cholera,21
+2022-04,Hyderabad,Typhoid,11
+2022-04,Hyderabad,Tuberculosis,5
+2022-04,Hyderabad,Hepatitis A,15
+2022-04,Ahmedabad,Dengue,6
+2022-04,Ahmedabad,Malaria,13
+2022-04,Ahmedabad,Cholera,6
+2022-04,Ahmedabad,Typhoid,4
+2022-04,Ahmedabad,Tuberculosis,38
+2022-04,Ahmedabad,Hepatitis A,21
+2022-04,Chennai,Dengue,8
+2022-04,Chennai,Malaria,23
+2022-04,Chennai,Cholera,30
+2022-04,Chennai,Typhoid,21
+2022-04,Chennai,Tuberculosis,18
+2022-04,Chennai,Hepatitis A,11
+2022-04,Kolkata,Dengue,16
+2022-04,Kolkata,Malaria,27
+2022-04,Kolkata,Cholera,27
+2022-04,Kolkata,Typhoid,29
+2022-04,Kolkata,Tuberculosis,28
+2022-04,Kolkata,Hepatitis A,13
+2022-04,Pune,Dengue,5
+2022-04,Pune,Malaria,14
+2022-04,Pune,Cholera,23
+2022-04,Pune,Typhoid,13
+2022-04,Pune,Tuberculosis,12
+2022-04,Pune,Hepatitis A,32
+2022-04,Jaipur,Dengue,13
+2022-04,Jaipur,Malaria,16
+2022-04,Jaipur,Cholera,18
+2022-04,Jaipur,Typhoid,11
+2022-04,Jaipur,Tuberculosis,19
+2022-04,Jaipur,Hepatitis A,3
+2022-04,Lucknow,Dengue,10
+2022-04,Lucknow,Malaria,18
+2022-04,Lucknow,Cholera,10
+2022-04,Lucknow,Typhoid,23
+2022-04,Lucknow,Tuberculosis,6
+2022-04,Lucknow,Hepatitis A,7
+2022-05,Mumbai,Dengue,35
+2022-05,Mumbai,Malaria,39
+2022-05,Mumbai,Cholera,4
+2022-05,Mumbai,Typhoid,29
+2022-05,Mumbai,Tuberculosis,16
+2022-05,Mumbai,Hepatitis A,18
+2022-05,Delhi,Dengue,8
+2022-05,Delhi,Malaria,7
+2022-05,Delhi,Cholera,4
+2022-05,Delhi,Typhoid,31
+2022-05,Delhi,Tuberculosis,22
+2022-05,Delhi,Hepatitis A,10
+2022-05,Bengaluru,Dengue,11
+2022-05,Bengaluru,Malaria,14
+2022-05,Bengaluru,Cholera,18
+2022-05,Bengaluru,Typhoid,22
+2022-05,Bengaluru,Tuberculosis,7
+2022-05,Bengaluru,Hepatitis A,15
+2022-05,Hyderabad,Dengue,7
+2022-05,Hyderabad,Malaria,3
+2022-05,Hyderabad,Cholera,16
+2022-05,Hyderabad,Typhoid,12
+2022-05,Hyderabad,Tuberculosis,21
+2022-05,Hyderabad,Hepatitis A,27
+2022-05,Ahmedabad,Dengue,7
+2022-05,Ahmedabad,Malaria,19
+2022-05,Ahmedabad,Cholera,24
+2022-05,Ahmedabad,Typhoid,27
+2022-05,Ahmedabad,Tuberculosis,23
+2022-05,Ahmedabad,Hepatitis A,12
+2022-05,Chennai,Dengue,8
+2022-05,Chennai,Malaria,3
+2022-05,Chennai,Cholera,7
+2022-05,Chennai,Typhoid,13
+2022-05,Chennai,Tuberculosis,13
+2022-05,Chennai,Hepatitis A,32
+2022-05,Kolkata,Dengue,12
+2022-05,Kolkata,Malaria,17
+2022-05,Kolkata,Cholera,34
+2022-05,Kolkata,Typhoid,20
+2022-05,Kolkata,Tuberculosis,9
+2022-05,Kolkata,Hepatitis A,9
+2022-05,Pune,Dengue,18
+2022-05,Pune,Malaria,17
+2022-05,Pune,Cholera,30
+2022-05,Pune,Typhoid,18
+2022-05,Pune,Tuberculosis,30
+2022-05,Pune,Hepatitis A,23
+2022-05,Jaipur,Dengue,14
+2022-05,Jaipur,Malaria,19
+2022-05,Jaipur,Cholera,6
+2022-05,Jaipur,Typhoid,30
+2022-05,Jaipur,Tuberculosis,10
+2022-05,Jaipur,Hepatitis A,23
+2022-05,Lucknow,Dengue,12
+2022-05,Lucknow,Malaria,23
+2022-05,Lucknow,Cholera,30
+2022-05,Lucknow,Typhoid,16
+2022-05,Lucknow,Tuberculosis,12
+2022-05,Lucknow,Hepatitis A,8
+2022-06,Mumbai,Dengue,11
+2022-06,Mumbai,Malaria,23
+2022-06,Mumbai,Cholera,11
+2022-06,Mumbai,Typhoid,17
+2022-06,Mumbai,Tuberculosis,13
+2022-06,Mumbai,Hepatitis A,8
+2022-06,Delhi,Dengue,27
+2022-06,Delhi,Malaria,17
+2022-06,Delhi,Cholera,11
+2022-06,Delhi,Typhoid,11
+2022-06,Delhi,Tuberculosis,25
+2022-06,Delhi,Hepatitis A,8
+2022-06,Bengaluru,Dengue,7
+2022-06,Bengaluru,Malaria,23
+2022-06,Bengaluru,Cholera,12
+2022-06,Bengaluru,Typhoid,25
+2022-06,Bengaluru,Tuberculosis,32
+2022-06,Bengaluru,Hepatitis A,5
+2022-06,Hyderabad,Dengue,12
+2022-06,Hyderabad,Malaria,19
+2022-06,Hyderabad,Cholera,13
+2022-06,Hyderabad,Typhoid,18
+2022-06,Hyderabad,Tuberculosis,6
+2022-06,Hyderabad,Hepatitis A,10
+2022-06,Ahmedabad,Dengue,10
+2022-06,Ahmedabad,Malaria,10
+2022-06,Ahmedabad,Cholera,21
+2022-06,Ahmedabad,Typhoid,20
+2022-06,Ahmedabad,Tuberculosis,15
+2022-06,Ahmedabad,Hepatitis A,2
+2022-06,Chennai,Dengue,20
+2022-06,Chennai,Malaria,36
+2022-06,Chennai,Cholera,18
+2022-06,Chennai,Typhoid,40
+2022-06,Chennai,Tuberculosis,28
+2022-06,Chennai,Hepatitis A,25
+2022-06,Kolkata,Dengue,14
+2022-06,Kolkata,Malaria,4
+2022-06,Kolkata,Cholera,17
+2022-06,Kolkata,Typhoid,11
+2022-06,Kolkata,Tuberculosis,26
+2022-06,Kolkata,Hepatitis A,27
+2022-06,Pune,Dengue,11
+2022-06,Pune,Malaria,18
+2022-06,Pune,Cholera,3
+2022-06,Pune,Typhoid,28
+2022-06,Pune,Tuberculosis,12
+2022-06,Pune,Hepatitis A,26
+2022-06,Jaipur,Dengue,28
+2022-06,Jaipur,Malaria,28
+2022-06,Jaipur,Cholera,8
+2022-06,Jaipur,Typhoid,20
+2022-06,Jaipur,Tuberculosis,12
+2022-06,Jaipur,Hepatitis A,17
+2022-06,Lucknow,Dengue,31
+2022-06,Lucknow,Malaria,27
+2022-06,Lucknow,Cholera,20
+2022-06,Lucknow,Typhoid,9
+2022-06,Lucknow,Tuberculosis,11
+2022-06,Lucknow,Hepatitis A,38
+2022-07,Mumbai,Dengue,6
+2022-07,Mumbai,Malaria,4
+2022-07,Mumbai,Cholera,17
+2022-07,Mumbai,Typhoid,26
+2022-07,Mumbai,Tuberculosis,5
+2022-07,Mumbai,Hepatitis A,18
+2022-07,Delhi,Dengue,8
+2022-07,Delhi,Malaria,22
+2022-07,Delhi,Cholera,7
+2022-07,Delhi,Typhoid,16
+2022-07,Delhi,Tuberculosis,15
+2022-07,Delhi,Hepatitis A,9
+2022-07,Bengaluru,Dengue,7
+2022-07,Bengaluru,Malaria,8
+2022-07,Bengaluru,Cholera,32
+2022-07,Bengaluru,Typhoid,24
+2022-07,Bengaluru,Tuberculosis,35
+2022-07,Bengaluru,Hepatitis A,5
+2022-07,Hyderabad,Dengue,12
+2022-07,Hyderabad,Malaria,22
+2022-07,Hyderabad,Cholera,7
+2022-07,Hyderabad,Typhoid,4
+2022-07,Hyderabad,Tuberculosis,12
+2022-07,Hyderabad,Hepatitis A,7
+2022-07,Ahmedabad,Dengue,11
+2022-07,Ahmedabad,Malaria,16
+2022-07,Ahmedabad,Cholera,19
+2022-07,Ahmedabad,Typhoid,38
+2022-07,Ahmedabad,Tuberculosis,22
+2022-07,Ahmedabad,Hepatitis A,7
+2022-07,Chennai,Dengue,14
+2022-07,Chennai,Malaria,26
+2022-07,Chennai,Cholera,31
+2022-07,Chennai,Typhoid,23
+2022-07,Chennai,Tuberculosis,8
+2022-07,Chennai,Hepatitis A,15
+2022-07,Kolkata,Dengue,20
+2022-07,Kolkata,Malaria,18
+2022-07,Kolkata,Cholera,21
+2022-07,Kolkata,Typhoid,25
+2022-07,Kolkata,Tuberculosis,25
+2022-07,Kolkata,Hepatitis A,23
+2022-07,Pune,Dengue,16
+2022-07,Pune,Malaria,17
+2022-07,Pune,Cholera,4
+2022-07,Pune,Typhoid,7
+2022-07,Pune,Tuberculosis,20
+2022-07,Pune,Hepatitis A,28
+2022-07,Jaipur,Dengue,21
+2022-07,Jaipur,Malaria,27
+2022-07,Jaipur,Cholera,25
+2022-07,Jaipur,Typhoid,9
+2022-07,Jaipur,Tuberculosis,17
+2022-07,Jaipur,Hepatitis A,28
+2022-07,Lucknow,Dengue,6
+2022-07,Lucknow,Malaria,5
+2022-07,Lucknow,Cholera,7
+2022-07,Lucknow,Typhoid,8
+2022-07,Lucknow,Tuberculosis,27
+2022-07,Lucknow,Hepatitis A,25
+2022-08,Mumbai,Dengue,14
+2022-08,Mumbai,Malaria,14
+2022-08,Mumbai,Cholera,13
+2022-08,Mumbai,Typhoid,17
+2022-08,Mumbai,Tuberculosis,18
+2022-08,Mumbai,Hepatitis A,24
+2022-08,Delhi,Dengue,4
+2022-08,Delhi,Malaria,25
+2022-08,Delhi,Cholera,25
+2022-08,Delhi,Typhoid,14
+2022-08,Delhi,Tuberculosis,17
+2022-08,Delhi,Hepatitis A,18
+2022-08,Bengaluru,Dengue,23
+2022-08,Bengaluru,Malaria,9
+2022-08,Bengaluru,Cholera,32
+2022-08,Bengaluru,Typhoid,28
+2022-08,Bengaluru,Tuberculosis,14
+2022-08,Bengaluru,Hepatitis A,12
+2022-08,Hyderabad,Dengue,5
+2022-08,Hyderabad,Malaria,11
+2022-08,Hyderabad,Cholera,27
+2022-08,Hyderabad,Typhoid,24
+2022-08,Hyderabad,Tuberculosis,8
+2022-08,Hyderabad,Hepatitis A,7
+2022-08,Ahmedabad,Dengue,5
+2022-08,Ahmedabad,Malaria,19
+2022-08,Ahmedabad,Cholera,7
+2022-08,Ahmedabad,Typhoid,31
+2022-08,Ahmedabad,Tuberculosis,31
+2022-08,Ahmedabad,Hepatitis A,5
+2022-08,Chennai,Dengue,10
+2022-08,Chennai,Malaria,11
+2022-08,Chennai,Cholera,37
+2022-08,Chennai,Typhoid,27
+2022-08,Chennai,Tuberculosis,7
+2022-08,Chennai,Hepatitis A,15
+2022-08,Kolkata,Dengue,17
+2022-08,Kolkata,Malaria,23
+2022-08,Kolkata,Cholera,29
+2022-08,Kolkata,Typhoid,38
+2022-08,Kolkata,Tuberculosis,21
+2022-08,Kolkata,Hepatitis A,26
+2022-08,Pune,Dengue,25
+2022-08,Pune,Malaria,26
+2022-08,Pune,Cholera,13
+2022-08,Pune,Typhoid,22
+2022-08,Pune,Tuberculosis,8
+2022-08,Pune,Hepatitis A,14
+2022-08,Jaipur,Dengue,24
+2022-08,Jaipur,Malaria,8
+2022-08,Jaipur,Cholera,7
+2022-08,Jaipur,Typhoid,16
+2022-08,Jaipur,Tuberculosis,6
+2022-08,Jaipur,Hepatitis A,2
+2022-08,Lucknow,Dengue,7
+2022-08,Lucknow,Malaria,1
+2022-08,Lucknow,Cholera,14
+2022-08,Lucknow,Typhoid,26
+2022-08,Lucknow,Tuberculosis,14
+2022-08,Lucknow,Hepatitis A,12
+2022-09,Mumbai,Dengue,19
+2022-09,Mumbai,Malaria,13
+2022-09,Mumbai,Cholera,10
+2022-09,Mumbai,Typhoid,34
+2022-09,Mumbai,Tuberculosis,4
+2022-09,Mumbai,Hepatitis A,14
+2022-09,Delhi,Dengue,2
+2022-09,Delhi,Malaria,26
+2022-09,Delhi,Cholera,13
+2022-09,Delhi,Typhoid,20
+2022-09,Delhi,Tuberculosis,12
+2022-09,Delhi,Hepatitis A,17
+2022-09,Bengaluru,Dengue,9
+2022-09,Bengaluru,Malaria,12
+2022-09,Bengaluru,Cholera,21
+2022-09,Bengaluru,Typhoid,14
+2022-09,Bengaluru,Tuberculosis,37
+2022-09,Bengaluru,Hepatitis A,14
+2022-09,Hyderabad,Dengue,31
+2022-09,Hyderabad,Malaria,10
+2022-09,Hyderabad,Cholera,32
+2022-09,Hyderabad,Typhoid,18
+2022-09,Hyderabad,Tuberculosis,7
+2022-09,Hyderabad,Hepatitis A,15
+2022-09,Ahmedabad,Dengue,12
+2022-09,Ahmedabad,Malaria,20
+2022-09,Ahmedabad,Cholera,25
+2022-09,Ahmedabad,Typhoid,22
+2022-09,Ahmedabad,Tuberculosis,10
+2022-09,Ahmedabad,Hepatitis A,25
+2022-09,Chennai,Dengue,19
+2022-09,Chennai,Malaria,27
+2022-09,Chennai,Cholera,26
+2022-09,Chennai,Typhoid,8
+2022-09,Chennai,Tuberculosis,9
+2022-09,Chennai,Hepatitis A,10
+2022-09,Kolkata,Dengue,7
+2022-09,Kolkata,Malaria,10
+2022-09,Kolkata,Cholera,11
+2022-09,Kolkata,Typhoid,35
+2022-09,Kolkata,Tuberculosis,9
+2022-09,Kolkata,Hepatitis A,16
+2022-09,Pune,Dengue,8
+2022-09,Pune,Malaria,23
+2022-09,Pune,Cholera,17
+2022-09,Pune,Typhoid,15
+2022-09,Pune,Tuberculosis,24
+2022-09,Pune,Hepatitis A,11
+2022-09,Jaipur,Dengue,6
+2022-09,Jaipur,Malaria,7
+2022-09,Jaipur,Cholera,11
+2022-09,Jaipur,Typhoid,23
+2022-09,Jaipur,Tuberculosis,18
+2022-09,Jaipur,Hepatitis A,4
+2022-09,Lucknow,Dengue,17
+2022-09,Lucknow,Malaria,17
+2022-09,Lucknow,Cholera,31
+2022-09,Lucknow,Typhoid,9
+2022-09,Lucknow,Tuberculosis,20
+2022-09,Lucknow,Hepatitis A,16
+2022-10,Mumbai,Dengue,12
+2022-10,Mumbai,Malaria,32
+2022-10,Mumbai,Cholera,17
+2022-10,Mumbai,Typhoid,17
+2022-10,Mumbai,Tuberculosis,23
+2022-10,Mumbai,Hepatitis A,11
+2022-10,Delhi,Dengue,8
+2022-10,Delhi,Malaria,8
+2022-10,Delhi,Cholera,21
+2022-10,Delhi,Typhoid,31
+2022-10,Delhi,Tuberculosis,4
+2022-10,Delhi,Hepatitis A,11
+2022-10,Bengaluru,Dengue,12
+2022-10,Bengaluru,Malaria,22
+2022-10,Bengaluru,Cholera,20
+2022-10,Bengaluru,Typhoid,17
+2022-10,Bengaluru,Tuberculosis,21
+2022-10,Bengaluru,Hepatitis A,13
+2022-10,Hyderabad,Dengue,22
+2022-10,Hyderabad,Malaria,19
+2022-10,Hyderabad,Cholera,12
+2022-10,Hyderabad,Typhoid,13
+2022-10,Hyderabad,Tuberculosis,13
+2022-10,Hyderabad,Hepatitis A,6
+2022-10,Ahmedabad,Dengue,20
+2022-10,Ahmedabad,Malaria,31
+2022-10,Ahmedabad,Cholera,30
+2022-10,Ahmedabad,Typhoid,33
+2022-10,Ahmedabad,Tuberculosis,25
+2022-10,Ahmedabad,Hepatitis A,13
+2022-10,Chennai,Dengue,32
+2022-10,Chennai,Malaria,22
+2022-10,Chennai,Cholera,34
+2022-10,Chennai,Typhoid,24
+2022-10,Chennai,Tuberculosis,17
+2022-10,Chennai,Hepatitis A,17
+2022-10,Kolkata,Dengue,21
+2022-10,Kolkata,Malaria,15
+2022-10,Kolkata,Cholera,20
+2022-10,Kolkata,Typhoid,16
+2022-10,Kolkata,Tuberculosis,17
+2022-10,Kolkata,Hepatitis A,12
+2022-10,Pune,Dengue,10
+2022-10,Pune,Malaria,8
+2022-10,Pune,Cholera,4
+2022-10,Pune,Typhoid,24
+2022-10,Pune,Tuberculosis,5
+2022-10,Pune,Hepatitis A,5
+2022-10,Jaipur,Dengue,15
+2022-10,Jaipur,Malaria,29
+2022-10,Jaipur,Cholera,37
+2022-10,Jaipur,Typhoid,28
+2022-10,Jaipur,Tuberculosis,14
+2022-10,Jaipur,Hepatitis A,17
+2022-10,Lucknow,Dengue,7
+2022-10,Lucknow,Malaria,12
+2022-10,Lucknow,Cholera,23
+2022-10,Lucknow,Typhoid,8
+2022-10,Lucknow,Tuberculosis,8
+2022-10,Lucknow,Hepatitis A,9
+2022-11,Mumbai,Dengue,6
+2022-11,Mumbai,Malaria,14
+2022-11,Mumbai,Cholera,10
+2022-11,Mumbai,Typhoid,11
+2022-11,Mumbai,Tuberculosis,22
+2022-11,Mumbai,Hepatitis A,15
+2022-11,Delhi,Dengue,13
+2022-11,Delhi,Malaria,14
+2022-11,Delhi,Cholera,23
+2022-11,Delhi,Typhoid,14
+2022-11,Delhi,Tuberculosis,7
+2022-11,Delhi,Hepatitis A,4
+2022-11,Bengaluru,Dengue,29
+2022-11,Bengaluru,Malaria,14
+2022-11,Bengaluru,Cholera,27
+2022-11,Bengaluru,Typhoid,4
+2022-11,Bengaluru,Tuberculosis,19
+2022-11,Bengaluru,Hepatitis A,28
+2022-11,Hyderabad,Dengue,26
+2022-11,Hyderabad,Malaria,30
+2022-11,Hyderabad,Cholera,10
+2022-11,Hyderabad,Typhoid,14
+2022-11,Hyderabad,Tuberculosis,18
+2022-11,Hyderabad,Hepatitis A,10
+2022-11,Ahmedabad,Dengue,10
+2022-11,Ahmedabad,Malaria,37
+2022-11,Ahmedabad,Cholera,13
+2022-11,Ahmedabad,Typhoid,34
+2022-11,Ahmedabad,Tuberculosis,24
+2022-11,Ahmedabad,Hepatitis A,10
+2022-11,Chennai,Dengue,16
+2022-11,Chennai,Malaria,23
+2022-11,Chennai,Cholera,6
+2022-11,Chennai,Typhoid,1
+2022-11,Chennai,Tuberculosis,20
+2022-11,Chennai,Hepatitis A,24
+2022-11,Kolkata,Dengue,13
+2022-11,Kolkata,Malaria,30
+2022-11,Kolkata,Cholera,17
+2022-11,Kolkata,Typhoid,30
+2022-11,Kolkata,Tuberculosis,12
+2022-11,Kolkata,Hepatitis A,11
+2022-11,Pune,Dengue,11
+2022-11,Pune,Malaria,24
+2022-11,Pune,Cholera,4
+2022-11,Pune,Typhoid,7
+2022-11,Pune,Tuberculosis,26
+2022-11,Pune,Hepatitis A,9
+2022-11,Jaipur,Dengue,16
+2022-11,Jaipur,Malaria,5
+2022-11,Jaipur,Cholera,10
+2022-11,Jaipur,Typhoid,33
+2022-11,Jaipur,Tuberculosis,12
+2022-11,Jaipur,Hepatitis A,29
+2022-11,Lucknow,Dengue,8
+2022-11,Lucknow,Malaria,11
+2022-11,Lucknow,Cholera,22
+2022-11,Lucknow,Typhoid,28
+2022-11,Lucknow,Tuberculosis,33
+2022-11,Lucknow,Hepatitis A,23
+2022-12,Mumbai,Dengue,17
+2022-12,Mumbai,Malaria,9
+2022-12,Mumbai,Cholera,13
+2022-12,Mumbai,Typhoid,27
+2022-12,Mumbai,Tuberculosis,5
+2022-12,Mumbai,Hepatitis A,10
+2022-12,Delhi,Dengue,23
+2022-12,Delhi,Malaria,26
+2022-12,Delhi,Cholera,18
+2022-12,Delhi,Typhoid,34
+2022-12,Delhi,Tuberculosis,3
+2022-12,Delhi,Hepatitis A,21
+2022-12,Bengaluru,Dengue,28
+2022-12,Bengaluru,Malaria,12
+2022-12,Bengaluru,Cholera,11
+2022-12,Bengaluru,Typhoid,24
+2022-12,Bengaluru,Tuberculosis,16
+2022-12,Bengaluru,Hepatitis A,29
+2022-12,Hyderabad,Dengue,26
+2022-12,Hyderabad,Malaria,32
+2022-12,Hyderabad,Cholera,13
+2022-12,Hyderabad,Typhoid,15
+2022-12,Hyderabad,Tuberculosis,21
+2022-12,Hyderabad,Hepatitis A,6
+2022-12,Ahmedabad,Dengue,27
+2022-12,Ahmedabad,Malaria,12
+2022-12,Ahmedabad,Cholera,8
+2022-12,Ahmedabad,Typhoid,14
+2022-12,Ahmedabad,Tuberculosis,25
+2022-12,Ahmedabad,Hepatitis A,4
+2022-12,Chennai,Dengue,3
+2022-12,Chennai,Malaria,20
+2022-12,Chennai,Cholera,20
+2022-12,Chennai,Typhoid,17
+2022-12,Chennai,Tuberculosis,14
+2022-12,Chennai,Hepatitis A,29
+2022-12,Kolkata,Dengue,5
+2022-12,Kolkata,Malaria,16
+2022-12,Kolkata,Cholera,19
+2022-12,Kolkata,Typhoid,4
+2022-12,Kolkata,Tuberculosis,13
+2022-12,Kolkata,Hepatitis A,13
+2022-12,Pune,Dengue,12
+2022-12,Pune,Malaria,15
+2022-12,Pune,Cholera,14
+2022-12,Pune,Typhoid,33
+2022-12,Pune,Tuberculosis,18
+2022-12,Pune,Hepatitis A,29
+2022-12,Jaipur,Dengue,24
+2022-12,Jaipur,Malaria,24
+2022-12,Jaipur,Cholera,23
+2022-12,Jaipur,Typhoid,24
+2022-12,Jaipur,Tuberculosis,27
+2022-12,Jaipur,Hepatitis A,33
+2022-12,Lucknow,Dengue,40
+2022-12,Lucknow,Malaria,6
+2022-12,Lucknow,Cholera,28
+2022-12,Lucknow,Typhoid,7
+2022-12,Lucknow,Tuberculosis,10
+2022-12,Lucknow,Hepatitis A,23
+2023-01,Mumbai,Dengue,19
+2023-01,Mumbai,Malaria,22
+2023-01,Mumbai,Cholera,25
+2023-01,Mumbai,Typhoid,28
+2023-01,Mumbai,Tuberculosis,9
+2023-01,Mumbai,Hepatitis A,17
+2023-01,Delhi,Dengue,8
+2023-01,Delhi,Malaria,30
+2023-01,Delhi,Cholera,15
+2023-01,Delhi,Typhoid,16
+2023-01,Delhi,Tuberculosis,18
+2023-01,Delhi,Hepatitis A,10
+2023-01,Bengaluru,Dengue,33
+2023-01,Bengaluru,Malaria,16
+2023-01,Bengaluru,Cholera,22
+2023-01,Bengaluru,Typhoid,6
+2023-01,Bengaluru,Tuberculosis,29
+2023-01,Bengaluru,Hepatitis A,18
+2023-01,Hyderabad,Dengue,9
+2023-01,Hyderabad,Malaria,17
+2023-01,Hyderabad,Cholera,7
+2023-01,Hyderabad,Typhoid,15
+2023-01,Hyderabad,Tuberculosis,18
+2023-01,Hyderabad,Hepatitis A,12
+2023-01,Ahmedabad,Dengue,35
+2023-01,Ahmedabad,Malaria,6
+2023-01,Ahmedabad,Cholera,20
+2023-01,Ahmedabad,Typhoid,35
+2023-01,Ahmedabad,Tuberculosis,8
+2023-01,Ahmedabad,Hepatitis A,3
+2023-01,Chennai,Dengue,28
+2023-01,Chennai,Malaria,10
+2023-01,Chennai,Cholera,27
+2023-01,Chennai,Typhoid,20
+2023-01,Chennai,Tuberculosis,3
+2023-01,Chennai,Hepatitis A,32
+2023-01,Kolkata,Dengue,15
+2023-01,Kolkata,Malaria,15
+2023-01,Kolkata,Cholera,40
+2023-01,Kolkata,Typhoid,11
+2023-01,Kolkata,Tuberculosis,11
+2023-01,Kolkata,Hepatitis A,3
+2023-01,Pune,Dengue,12
+2023-01,Pune,Malaria,7
+2023-01,Pune,Cholera,3
+2023-01,Pune,Typhoid,24
+2023-01,Pune,Tuberculosis,2
+2023-01,Pune,Hepatitis A,23
+2023-01,Jaipur,Dengue,16
+2023-01,Jaipur,Malaria,27
+2023-01,Jaipur,Cholera,6
+2023-01,Jaipur,Typhoid,27
+2023-01,Jaipur,Tuberculosis,4
+2023-01,Jaipur,Hepatitis A,24
+2023-01,Lucknow,Dengue,13
+2023-01,Lucknow,Malaria,14
+2023-01,Lucknow,Cholera,21
+2023-01,Lucknow,Typhoid,20
+2023-01,Lucknow,Tuberculosis,19
+2023-01,Lucknow,Hepatitis A,14
+2023-02,Mumbai,Dengue,27
+2023-02,Mumbai,Malaria,26
+2023-02,Mumbai,Cholera,25
+2023-02,Mumbai,Typhoid,31
+2023-02,Mumbai,Tuberculosis,17
+2023-02,Mumbai,Hepatitis A,16
+2023-02,Delhi,Dengue,8
+2023-02,Delhi,Malaria,23
+2023-02,Delhi,Cholera,22
+2023-02,Delhi,Typhoid,18
+2023-02,Delhi,Tuberculosis,4
+2023-02,Delhi,Hepatitis A,26
+2023-02,Bengaluru,Dengue,10
+2023-02,Bengaluru,Malaria,26
+2023-02,Bengaluru,Cholera,27
+2023-02,Bengaluru,Typhoid,25
+2023-02,Bengaluru,Tuberculosis,8
+2023-02,Bengaluru,Hepatitis A,8
+2023-02,Hyderabad,Dengue,25
+2023-02,Hyderabad,Malaria,10
+2023-02,Hyderabad,Cholera,14
+2023-02,Hyderabad,Typhoid,34
+2023-02,Hyderabad,Tuberculosis,17
+2023-02,Hyderabad,Hepatitis A,10
+2023-02,Ahmedabad,Dengue,28
+2023-02,Ahmedabad,Malaria,11
+2023-02,Ahmedabad,Cholera,22
+2023-02,Ahmedabad,Typhoid,15
+2023-02,Ahmedabad,Tuberculosis,6
+2023-02,Ahmedabad,Hepatitis A,23
+2023-02,Chennai,Dengue,28
+2023-02,Chennai,Malaria,19
+2023-02,Chennai,Cholera,22
+2023-02,Chennai,Typhoid,4
+2023-02,Chennai,Tuberculosis,1
+2023-02,Chennai,Hepatitis A,23
+2023-02,Kolkata,Dengue,27
+2023-02,Kolkata,Malaria,31
+2023-02,Kolkata,Cholera,19
+2023-02,Kolkata,Typhoid,14
+2023-02,Kolkata,Tuberculosis,9
+2023-02,Kolkata,Hepatitis A,15
+2023-02,Pune,Dengue,25
+2023-02,Pune,Malaria,12
+2023-02,Pune,Cholera,28
+2023-02,Pune,Typhoid,13
+2023-02,Pune,Tuberculosis,25
+2023-02,Pune,Hepatitis A,19
+2023-02,Jaipur,Dengue,34
+2023-02,Jaipur,Malaria,20
+2023-02,Jaipur,Cholera,20
+2023-02,Jaipur,Typhoid,17
+2023-02,Jaipur,Tuberculosis,15
+2023-02,Jaipur,Hepatitis A,24
+2023-02,Lucknow,Dengue,22
+2023-02,Lucknow,Malaria,14
+2023-02,Lucknow,Cholera,15
+2023-02,Lucknow,Typhoid,10
+2023-02,Lucknow,Tuberculosis,15
+2023-02,Lucknow,Hepatitis A,19
+2023-03,Mumbai,Dengue,24
+2023-03,Mumbai,Malaria,8
+2023-03,Mumbai,Cholera,29
+2023-03,Mumbai,Typhoid,26
+2023-03,Mumbai,Tuberculosis,8
+2023-03,Mumbai,Hepatitis A,31
+2023-03,Delhi,Dengue,22
+2023-03,Delhi,Malaria,9
+2023-03,Delhi,Cholera,13
+2023-03,Delhi,Typhoid,16
+2023-03,Delhi,Tuberculosis,6
+2023-03,Delhi,Hepatitis A,21
+2023-03,Bengaluru,Dengue,28
+2023-03,Bengaluru,Malaria,18
+2023-03,Bengaluru,Cholera,25
+2023-03,Bengaluru,Typhoid,28
+2023-03,Bengaluru,Tuberculosis,27
+2023-03,Bengaluru,Hepatitis A,26
+2023-03,Hyderabad,Dengue,22
+2023-03,Hyderabad,Malaria,13
+2023-03,Hyderabad,Cholera,6
+2023-03,Hyderabad,Typhoid,21
+2023-03,Hyderabad,Tuberculosis,8
+2023-03,Hyderabad,Hepatitis A,6
+2023-03,Ahmedabad,Dengue,22
+2023-03,Ahmedabad,Malaria,17
+2023-03,Ahmedabad,Cholera,27
+2023-03,Ahmedabad,Typhoid,14
+2023-03,Ahmedabad,Tuberculosis,13
+2023-03,Ahmedabad,Hepatitis A,10
+2023-03,Chennai,Dengue,11
+2023-03,Chennai,Malaria,21
+2023-03,Chennai,Cholera,21
+2023-03,Chennai,Typhoid,23
+2023-03,Chennai,Tuberculosis,15
+2023-03,Chennai,Hepatitis A,14
+2023-03,Kolkata,Dengue,9
+2023-03,Kolkata,Malaria,21
+2023-03,Kolkata,Cholera,11
+2023-03,Kolkata,Typhoid,7
+2023-03,Kolkata,Tuberculosis,31
+2023-03,Kolkata,Hepatitis A,10
+2023-03,Pune,Dengue,32
+2023-03,Pune,Malaria,37
+2023-03,Pune,Cholera,25
+2023-03,Pune,Typhoid,24
+2023-03,Pune,Tuberculosis,7
+2023-03,Pune,Hepatitis A,8
+2023-03,Jaipur,Dengue,9
+2023-03,Jaipur,Malaria,8
+2023-03,Jaipur,Cholera,25
+2023-03,Jaipur,Typhoid,22
+2023-03,Jaipur,Tuberculosis,11
+2023-03,Jaipur,Hepatitis A,18
+2023-03,Lucknow,Dengue,48
+2023-03,Lucknow,Malaria,15
+2023-03,Lucknow,Cholera,15
+2023-03,Lucknow,Typhoid,18
+2023-03,Lucknow,Tuberculosis,32
+2023-03,Lucknow,Hepatitis A,25
+2023-04,Mumbai,Dengue,32
+2023-04,Mumbai,Malaria,29
+2023-04,Mumbai,Cholera,15
+2023-04,Mumbai,Typhoid,9
+2023-04,Mumbai,Tuberculosis,10
+2023-04,Mumbai,Hepatitis A,23
+2023-04,Delhi,Dengue,23
+2023-04,Delhi,Malaria,20
+2023-04,Delhi,Cholera,6
+2023-04,Delhi,Typhoid,20
+2023-04,Delhi,Tuberculosis,20
+2023-04,Delhi,Hepatitis A,27
+2023-04,Bengaluru,Dengue,13
+2023-04,Bengaluru,Malaria,16
+2023-04,Bengaluru,Cholera,19
+2023-04,Bengaluru,Typhoid,5
+2023-04,Bengaluru,Tuberculosis,7
+2023-04,Bengaluru,Hepatitis A,18
+2023-04,Hyderabad,Dengue,27
+2023-04,Hyderabad,Malaria,10
+2023-04,Hyderabad,Cholera,10
+2023-04,Hyderabad,Typhoid,37
+2023-04,Hyderabad,Tuberculosis,10
+2023-04,Hyderabad,Hepatitis A,14
+2023-04,Ahmedabad,Dengue,12
+2023-04,Ahmedabad,Malaria,30
+2023-04,Ahmedabad,Cholera,9
+2023-04,Ahmedabad,Typhoid,15
+2023-04,Ahmedabad,Tuberculosis,16
+2023-04,Ahmedabad,Hepatitis A,37
+2023-04,Chennai,Dengue,4
+2023-04,Chennai,Malaria,21
+2023-04,Chennai,Cholera,26
+2023-04,Chennai,Typhoid,28
+2023-04,Chennai,Tuberculosis,12
+2023-04,Chennai,Hepatitis A,26
+2023-04,Kolkata,Dengue,30
+2023-04,Kolkata,Malaria,11
+2023-04,Kolkata,Cholera,30
+2023-04,Kolkata,Typhoid,21
+2023-04,Kolkata,Tuberculosis,26
+2023-04,Kolkata,Hepatitis A,10
+2023-04,Pune,Dengue,15
+2023-04,Pune,Malaria,7
+2023-04,Pune,Cholera,12
+2023-04,Pune,Typhoid,29
+2023-04,Pune,Tuberculosis,17
+2023-04,Pune,Hepatitis A,11
+2023-04,Jaipur,Dengue,10
+2023-04,Jaipur,Malaria,29
+2023-04,Jaipur,Cholera,12
+2023-04,Jaipur,Typhoid,24
+2023-04,Jaipur,Tuberculosis,20
+2023-04,Jaipur,Hepatitis A,17
+2023-04,Lucknow,Dengue,8
+2023-04,Lucknow,Malaria,23
+2023-04,Lucknow,Cholera,21
+2023-04,Lucknow,Typhoid,5
+2023-04,Lucknow,Tuberculosis,21
+2023-04,Lucknow,Hepatitis A,22
+2023-05,Mumbai,Dengue,7
+2023-05,Mumbai,Malaria,26
+2023-05,Mumbai,Cholera,16
+2023-05,Mumbai,Typhoid,7
+2023-05,Mumbai,Tuberculosis,21
+2023-05,Mumbai,Hepatitis A,8
+2023-05,Delhi,Dengue,4
+2023-05,Delhi,Malaria,15
+2023-05,Delhi,Cholera,17
+2023-05,Delhi,Typhoid,12
+2023-05,Delhi,Tuberculosis,21
+2023-05,Delhi,Hepatitis A,10
+2023-05,Bengaluru,Dengue,17
+2023-05,Bengaluru,Malaria,36
+2023-05,Bengaluru,Cholera,6
+2023-05,Bengaluru,Typhoid,5
+2023-05,Bengaluru,Tuberculosis,23
+2023-05,Bengaluru,Hepatitis A,19
+2023-05,Hyderabad,Dengue,32
+2023-05,Hyderabad,Malaria,5
+2023-05,Hyderabad,Cholera,7
+2023-05,Hyderabad,Typhoid,17
+2023-05,Hyderabad,Tuberculosis,5
+2023-05,Hyderabad,Hepatitis A,7
+2023-05,Ahmedabad,Dengue,23
+2023-05,Ahmedabad,Malaria,13
+2023-05,Ahmedabad,Cholera,15
+2023-05,Ahmedabad,Typhoid,7
+2023-05,Ahmedabad,Tuberculosis,9
+2023-05,Ahmedabad,Hepatitis A,11
+2023-05,Chennai,Dengue,4
+2023-05,Chennai,Malaria,8
+2023-05,Chennai,Cholera,12
+2023-05,Chennai,Typhoid,19
+2023-05,Chennai,Tuberculosis,11
+2023-05,Chennai,Hepatitis A,21
+2023-05,Kolkata,Dengue,22
+2023-05,Kolkata,Malaria,3
+2023-05,Kolkata,Cholera,28
+2023-05,Kolkata,Typhoid,22
+2023-05,Kolkata,Tuberculosis,14
+2023-05,Kolkata,Hepatitis A,12
+2023-05,Pune,Dengue,29
+2023-05,Pune,Malaria,11
+2023-05,Pune,Cholera,24
+2023-05,Pune,Typhoid,4
+2023-05,Pune,Tuberculosis,5
+2023-05,Pune,Hepatitis A,28
+2023-05,Jaipur,Dengue,36
+2023-05,Jaipur,Malaria,12
+2023-05,Jaipur,Cholera,10
+2023-05,Jaipur,Typhoid,16
+2023-05,Jaipur,Tuberculosis,23
+2023-05,Jaipur,Hepatitis A,21
+2023-05,Lucknow,Dengue,10
+2023-05,Lucknow,Malaria,18
+2023-05,Lucknow,Cholera,14
+2023-05,Lucknow,Typhoid,19
+2023-05,Lucknow,Tuberculosis,19
+2023-05,Lucknow,Hepatitis A,7
+2023-06,Mumbai,Dengue,33
+2023-06,Mumbai,Malaria,13
+2023-06,Mumbai,Cholera,11
+2023-06,Mumbai,Typhoid,1
+2023-06,Mumbai,Tuberculosis,9
+2023-06,Mumbai,Hepatitis A,25
+2023-06,Delhi,Dengue,15
+2023-06,Delhi,Malaria,31
+2023-06,Delhi,Cholera,7
+2023-06,Delhi,Typhoid,31
+2023-06,Delhi,Tuberculosis,30
+2023-06,Delhi,Hepatitis A,6
+2023-06,Bengaluru,Dengue,26
+2023-06,Bengaluru,Malaria,23
+2023-06,Bengaluru,Cholera,11
+2023-06,Bengaluru,Typhoid,14
+2023-06,Bengaluru,Tuberculosis,7
+2023-06,Bengaluru,Hepatitis A,10
+2023-06,Hyderabad,Dengue,17
+2023-06,Hyderabad,Malaria,11
+2023-06,Hyderabad,Cholera,18
+2023-06,Hyderabad,Typhoid,17
+2023-06,Hyderabad,Tuberculosis,14
+2023-06,Hyderabad,Hepatitis A,10
+2023-06,Ahmedabad,Dengue,16
+2023-06,Ahmedabad,Malaria,27
+2023-06,Ahmedabad,Cholera,27
+2023-06,Ahmedabad,Typhoid,19
+2023-06,Ahmedabad,Tuberculosis,23
+2023-06,Ahmedabad,Hepatitis A,16
+2023-06,Chennai,Dengue,2
+2023-06,Chennai,Malaria,7
+2023-06,Chennai,Cholera,16
+2023-06,Chennai,Typhoid,12
+2023-06,Chennai,Tuberculosis,11
+2023-06,Chennai,Hepatitis A,19
+2023-06,Kolkata,Dengue,25
+2023-06,Kolkata,Malaria,11
+2023-06,Kolkata,Cholera,21
+2023-06,Kolkata,Typhoid,7
+2023-06,Kolkata,Tuberculosis,27
+2023-06,Kolkata,Hepatitis A,29
+2023-06,Pune,Dengue,12
+2023-06,Pune,Malaria,23
+2023-06,Pune,Cholera,11
+2023-06,Pune,Typhoid,14
+2023-06,Pune,Tuberculosis,22
+2023-06,Pune,Hepatitis A,17
+2023-06,Jaipur,Dengue,4
+2023-06,Jaipur,Malaria,10
+2023-06,Jaipur,Cholera,6
+2023-06,Jaipur,Typhoid,32
+2023-06,Jaipur,Tuberculosis,23
+2023-06,Jaipur,Hepatitis A,20
+2023-06,Lucknow,Dengue,15
+2023-06,Lucknow,Malaria,18
+2023-06,Lucknow,Cholera,20
+2023-06,Lucknow,Typhoid,10
+2023-06,Lucknow,Tuberculosis,14
+2023-06,Lucknow,Hepatitis A,14
+2023-07,Mumbai,Dengue,7
+2023-07,Mumbai,Malaria,5
+2023-07,Mumbai,Cholera,1
+2023-07,Mumbai,Typhoid,23
+2023-07,Mumbai,Tuberculosis,29
+2023-07,Mumbai,Hepatitis A,18
+2023-07,Delhi,Dengue,4
+2023-07,Delhi,Malaria,10
+2023-07,Delhi,Cholera,19
+2023-07,Delhi,Typhoid,10
+2023-07,Delhi,Tuberculosis,36
+2023-07,Delhi,Hepatitis A,25
+2023-07,Bengaluru,Dengue,24
+2023-07,Bengaluru,Malaria,22
+2023-07,Bengaluru,Cholera,20
+2023-07,Bengaluru,Typhoid,17
+2023-07,Bengaluru,Tuberculosis,10
+2023-07,Bengaluru,Hepatitis A,10
+2023-07,Hyderabad,Dengue,10
+2023-07,Hyderabad,Malaria,4
+2023-07,Hyderabad,Cholera,15
+2023-07,Hyderabad,Typhoid,15
+2023-07,Hyderabad,Tuberculosis,20
+2023-07,Hyderabad,Hepatitis A,22
+2023-07,Ahmedabad,Dengue,17
+2023-07,Ahmedabad,Malaria,27
+2023-07,Ahmedabad,Cholera,11
+2023-07,Ahmedabad,Typhoid,36
+2023-07,Ahmedabad,Tuberculosis,18
+2023-07,Ahmedabad,Hepatitis A,24
+2023-07,Chennai,Dengue,22
+2023-07,Chennai,Malaria,25
+2023-07,Chennai,Cholera,4
+2023-07,Chennai,Typhoid,24
+2023-07,Chennai,Tuberculosis,18
+2023-07,Chennai,Hepatitis A,17
+2023-07,Kolkata,Dengue,21
+2023-07,Kolkata,Malaria,28
+2023-07,Kolkata,Cholera,24
+2023-07,Kolkata,Typhoid,17
+2023-07,Kolkata,Tuberculosis,14
+2023-07,Kolkata,Hepatitis A,11
+2023-07,Pune,Dengue,15
+2023-07,Pune,Malaria,12
+2023-07,Pune,Cholera,11
+2023-07,Pune,Typhoid,10
+2023-07,Pune,Tuberculosis,8
+2023-07,Pune,Hepatitis A,19
+2023-07,Jaipur,Dengue,25
+2023-07,Jaipur,Malaria,7
+2023-07,Jaipur,Cholera,14
+2023-07,Jaipur,Typhoid,15
+2023-07,Jaipur,Tuberculosis,36
+2023-07,Jaipur,Hepatitis A,10
+2023-07,Lucknow,Dengue,14
+2023-07,Lucknow,Malaria,13
+2023-07,Lucknow,Cholera,28
+2023-07,Lucknow,Typhoid,18
+2023-07,Lucknow,Tuberculosis,12
+2023-07,Lucknow,Hepatitis A,11
+2023-08,Mumbai,Dengue,20
+2023-08,Mumbai,Malaria,24
+2023-08,Mumbai,Cholera,34
+2023-08,Mumbai,Typhoid,17
+2023-08,Mumbai,Tuberculosis,36
+2023-08,Mumbai,Hepatitis A,28
+2023-08,Delhi,Dengue,30
+2023-08,Delhi,Malaria,28
+2023-08,Delhi,Cholera,15
+2023-08,Delhi,Typhoid,11
+2023-08,Delhi,Tuberculosis,12
+2023-08,Delhi,Hepatitis A,10
+2023-08,Bengaluru,Dengue,9
+2023-08,Bengaluru,Malaria,15
+2023-08,Bengaluru,Cholera,18
+2023-08,Bengaluru,Typhoid,7
+2023-08,Bengaluru,Tuberculosis,22
+2023-08,Bengaluru,Hepatitis A,6
+2023-08,Hyderabad,Dengue,26
+2023-08,Hyderabad,Malaria,31
+2023-08,Hyderabad,Cholera,33
+2023-08,Hyderabad,Typhoid,9
+2023-08,Hyderabad,Tuberculosis,32
+2023-08,Hyderabad,Hepatitis A,3
+2023-08,Ahmedabad,Dengue,4
+2023-08,Ahmedabad,Malaria,21
+2023-08,Ahmedabad,Cholera,20
+2023-08,Ahmedabad,Typhoid,20
+2023-08,Ahmedabad,Tuberculosis,20
+2023-08,Ahmedabad,Hepatitis A,29
+2023-08,Chennai,Dengue,13
+2023-08,Chennai,Malaria,15
+2023-08,Chennai,Cholera,22
+2023-08,Chennai,Typhoid,17
+2023-08,Chennai,Tuberculosis,13
+2023-08,Chennai,Hepatitis A,21
+2023-08,Kolkata,Dengue,36
+2023-08,Kolkata,Malaria,4
+2023-08,Kolkata,Cholera,12
+2023-08,Kolkata,Typhoid,12
+2023-08,Kolkata,Tuberculosis,7
+2023-08,Kolkata,Hepatitis A,17
+2023-08,Pune,Dengue,7
+2023-08,Pune,Malaria,13
+2023-08,Pune,Cholera,39
+2023-08,Pune,Typhoid,6
+2023-08,Pune,Tuberculosis,13
+2023-08,Pune,Hepatitis A,22
+2023-08,Jaipur,Dengue,40
+2023-08,Jaipur,Malaria,31
+2023-08,Jaipur,Cholera,26
+2023-08,Jaipur,Typhoid,8
+2023-08,Jaipur,Tuberculosis,26
+2023-08,Jaipur,Hepatitis A,19
+2023-08,Lucknow,Dengue,6
+2023-08,Lucknow,Malaria,20
+2023-08,Lucknow,Cholera,11
+2023-08,Lucknow,Typhoid,19
+2023-08,Lucknow,Tuberculosis,17
+2023-08,Lucknow,Hepatitis A,3
+2023-09,Mumbai,Dengue,11
+2023-09,Mumbai,Malaria,24
+2023-09,Mumbai,Cholera,29
+2023-09,Mumbai,Typhoid,18
+2023-09,Mumbai,Tuberculosis,11
+2023-09,Mumbai,Hepatitis A,20
+2023-09,Delhi,Dengue,26
+2023-09,Delhi,Malaria,13
+2023-09,Delhi,Cholera,21
+2023-09,Delhi,Typhoid,9
+2023-09,Delhi,Tuberculosis,23
+2023-09,Delhi,Hepatitis A,9
+2023-09,Bengaluru,Dengue,7
+2023-09,Bengaluru,Malaria,18
+2023-09,Bengaluru,Cholera,14
+2023-09,Bengaluru,Typhoid,25
+2023-09,Bengaluru,Tuberculosis,25
+2023-09,Bengaluru,Hepatitis A,7
+2023-09,Hyderabad,Dengue,33
+2023-09,Hyderabad,Malaria,6
+2023-09,Hyderabad,Cholera,22
+2023-09,Hyderabad,Typhoid,15
+2023-09,Hyderabad,Tuberculosis,30
+2023-09,Hyderabad,Hepatitis A,28
+2023-09,Ahmedabad,Dengue,20
+2023-09,Ahmedabad,Malaria,22
+2023-09,Ahmedabad,Cholera,14
+2023-09,Ahmedabad,Typhoid,13
+2023-09,Ahmedabad,Tuberculosis,4
+2023-09,Ahmedabad,Hepatitis A,5
+2023-09,Chennai,Dengue,11
+2023-09,Chennai,Malaria,20
+2023-09,Chennai,Cholera,27
+2023-09,Chennai,Typhoid,30
+2023-09,Chennai,Tuberculosis,20
+2023-09,Chennai,Hepatitis A,9
+2023-09,Kolkata,Dengue,41
+2023-09,Kolkata,Malaria,20
+2023-09,Kolkata,Cholera,7
+2023-09,Kolkata,Typhoid,28
+2023-09,Kolkata,Tuberculosis,22
+2023-09,Kolkata,Hepatitis A,13
+2023-09,Pune,Dengue,11
+2023-09,Pune,Malaria,30
+2023-09,Pune,Cholera,7
+2023-09,Pune,Typhoid,13
+2023-09,Pune,Tuberculosis,5
+2023-09,Pune,Hepatitis A,8
+2023-09,Jaipur,Dengue,26
+2023-09,Jaipur,Malaria,24
+2023-09,Jaipur,Cholera,12
+2023-09,Jaipur,Typhoid,27
+2023-09,Jaipur,Tuberculosis,6
+2023-09,Jaipur,Hepatitis A,4
+2023-09,Lucknow,Dengue,33
+2023-09,Lucknow,Malaria,24
+2023-09,Lucknow,Cholera,15
+2023-09,Lucknow,Typhoid,4
+2023-09,Lucknow,Tuberculosis,16
+2023-09,Lucknow,Hepatitis A,10
+2023-10,Mumbai,Dengue,21
+2023-10,Mumbai,Malaria,13
+2023-10,Mumbai,Cholera,26
+2023-10,Mumbai,Typhoid,14
+2023-10,Mumbai,Tuberculosis,6
+2023-10,Mumbai,Hepatitis A,20
+2023-10,Delhi,Dengue,17
+2023-10,Delhi,Malaria,12
+2023-10,Delhi,Cholera,11
+2023-10,Delhi,Typhoid,6
+2023-10,Delhi,Tuberculosis,25
+2023-10,Delhi,Hepatitis A,28
+2023-10,Bengaluru,Dengue,33
+2023-10,Bengaluru,Malaria,7
+2023-10,Bengaluru,Cholera,10
+2023-10,Bengaluru,Typhoid,20
+2023-10,Bengaluru,Tuberculosis,12
+2023-10,Bengaluru,Hepatitis A,26
+2023-10,Hyderabad,Dengue,35
+2023-10,Hyderabad,Malaria,28
+2023-10,Hyderabad,Cholera,31
+2023-10,Hyderabad,Typhoid,6
+2023-10,Hyderabad,Tuberculosis,20
+2023-10,Hyderabad,Hepatitis A,5
+2023-10,Ahmedabad,Dengue,24
+2023-10,Ahmedabad,Malaria,11
+2023-10,Ahmedabad,Cholera,7
+2023-10,Ahmedabad,Typhoid,13
+2023-10,Ahmedabad,Tuberculosis,9
+2023-10,Ahmedabad,Hepatitis A,14
+2023-10,Chennai,Dengue,24
+2023-10,Chennai,Malaria,14
+2023-10,Chennai,Cholera,19
+2023-10,Chennai,Typhoid,31
+2023-10,Chennai,Tuberculosis,10
+2023-10,Chennai,Hepatitis A,28
+2023-10,Kolkata,Dengue,23
+2023-10,Kolkata,Malaria,10
+2023-10,Kolkata,Cholera,11
+2023-10,Kolkata,Typhoid,16
+2023-10,Kolkata,Tuberculosis,2
+2023-10,Kolkata,Hepatitis A,18
+2023-10,Pune,Dengue,10
+2023-10,Pune,Malaria,15
+2023-10,Pune,Cholera,9
+2023-10,Pune,Typhoid,15
+2023-10,Pune,Tuberculosis,11
+2023-10,Pune,Hepatitis A,6
+2023-10,Jaipur,Dengue,16
+2023-10,Jaipur,Malaria,14
+2023-10,Jaipur,Cholera,11
+2023-10,Jaipur,Typhoid,27
+2023-10,Jaipur,Tuberculosis,13
+2023-10,Jaipur,Hepatitis A,19
+2023-10,Lucknow,Dengue,21
+2023-10,Lucknow,Malaria,21
+2023-10,Lucknow,Cholera,18
+2023-10,Lucknow,Typhoid,10
+2023-10,Lucknow,Tuberculosis,26
+2023-10,Lucknow,Hepatitis A,32
+2023-11,Mumbai,Dengue,7
+2023-11,Mumbai,Malaria,6
+2023-11,Mumbai,Cholera,11
+2023-11,Mumbai,Typhoid,5
+2023-11,Mumbai,Tuberculosis,4
+2023-11,Mumbai,Hepatitis A,8
+2023-11,Delhi,Dengue,7
+2023-11,Delhi,Malaria,15
+2023-11,Delhi,Cholera,26
+2023-11,Delhi,Typhoid,37
+2023-11,Delhi,Tuberculosis,23
+2023-11,Delhi,Hepatitis A,22
+2023-11,Bengaluru,Dengue,34
+2023-11,Bengaluru,Malaria,21
+2023-11,Bengaluru,Cholera,10
+2023-11,Bengaluru,Typhoid,42
+2023-11,Bengaluru,Tuberculosis,11
+2023-11,Bengaluru,Hepatitis A,27
+2023-11,Hyderabad,Dengue,11
+2023-11,Hyderabad,Malaria,28
+2023-11,Hyderabad,Cholera,26
+2023-11,Hyderabad,Typhoid,21
+2023-11,Hyderabad,Tuberculosis,23
+2023-11,Hyderabad,Hepatitis A,18
+2023-11,Ahmedabad,Dengue,31
+2023-11,Ahmedabad,Malaria,7
+2023-11,Ahmedabad,Cholera,6
+2023-11,Ahmedabad,Typhoid,25
+2023-11,Ahmedabad,Tuberculosis,23
+2023-11,Ahmedabad,Hepatitis A,12
+2023-11,Chennai,Dengue,4
+2023-11,Chennai,Malaria,28
+2023-11,Chennai,Cholera,26
+2023-11,Chennai,Typhoid,11
+2023-11,Chennai,Tuberculosis,27
+2023-11,Chennai,Hepatitis A,14
+2023-11,Kolkata,Dengue,17
+2023-11,Kolkata,Malaria,12
+2023-11,Kolkata,Cholera,10
+2023-11,Kolkata,Typhoid,11
+2023-11,Kolkata,Tuberculosis,19
+2023-11,Kolkata,Hepatitis A,14
+2023-11,Pune,Dengue,21
+2023-11,Pune,Malaria,26
+2023-11,Pune,Cholera,17
+2023-11,Pune,Typhoid,13
+2023-11,Pune,Tuberculosis,30
+2023-11,Pune,Hepatitis A,13
+2023-11,Jaipur,Dengue,14
+2023-11,Jaipur,Malaria,24
+2023-11,Jaipur,Cholera,27
+2023-11,Jaipur,Typhoid,12
+2023-11,Jaipur,Tuberculosis,8
+2023-11,Jaipur,Hepatitis A,8
+2023-11,Lucknow,Dengue,19
+2023-11,Lucknow,Malaria,21
+2023-11,Lucknow,Cholera,7
+2023-11,Lucknow,Typhoid,27
+2023-11,Lucknow,Tuberculosis,18
+2023-11,Lucknow,Hepatitis A,3
+2023-12,Mumbai,Dengue,26
+2023-12,Mumbai,Malaria,36
+2023-12,Mumbai,Cholera,21
+2023-12,Mumbai,Typhoid,32
+2023-12,Mumbai,Tuberculosis,17
+2023-12,Mumbai,Hepatitis A,20
+2023-12,Delhi,Dengue,22
+2023-12,Delhi,Malaria,12
+2023-12,Delhi,Cholera,14
+2023-12,Delhi,Typhoid,14
+2023-12,Delhi,Tuberculosis,12
+2023-12,Delhi,Hepatitis A,16
+2023-12,Bengaluru,Dengue,10
+2023-12,Bengaluru,Malaria,16
+2023-12,Bengaluru,Cholera,17
+2023-12,Bengaluru,Typhoid,19
+2023-12,Bengaluru,Tuberculosis,18
+2023-12,Bengaluru,Hepatitis A,25
+2023-12,Hyderabad,Dengue,19
+2023-12,Hyderabad,Malaria,30
+2023-12,Hyderabad,Cholera,27
+2023-12,Hyderabad,Typhoid,17
+2023-12,Hyderabad,Tuberculosis,23
+2023-12,Hyderabad,Hepatitis A,13
+2023-12,Ahmedabad,Dengue,26
+2023-12,Ahmedabad,Malaria,25
+2023-12,Ahmedabad,Cholera,33
+2023-12,Ahmedabad,Typhoid,18
+2023-12,Ahmedabad,Tuberculosis,25
+2023-12,Ahmedabad,Hepatitis A,17
+2023-12,Chennai,Dengue,12
+2023-12,Chennai,Malaria,16
+2023-12,Chennai,Cholera,9
+2023-12,Chennai,Typhoid,13
+2023-12,Chennai,Tuberculosis,10
+2023-12,Chennai,Hepatitis A,22
+2023-12,Kolkata,Dengue,27
+2023-12,Kolkata,Malaria,10
+2023-12,Kolkata,Cholera,8
+2023-12,Kolkata,Typhoid,17
+2023-12,Kolkata,Tuberculosis,12
+2023-12,Kolkata,Hepatitis A,21
+2023-12,Pune,Dengue,6
+2023-12,Pune,Malaria,9
+2023-12,Pune,Cholera,16
+2023-12,Pune,Typhoid,13
+2023-12,Pune,Tuberculosis,3
+2023-12,Pune,Hepatitis A,16
+2023-12,Jaipur,Dengue,26
+2023-12,Jaipur,Malaria,25
+2023-12,Jaipur,Cholera,29
+2023-12,Jaipur,Typhoid,35
+2023-12,Jaipur,Tuberculosis,9
+2023-12,Jaipur,Hepatitis A,17
+2023-12,Lucknow,Dengue,9
+2023-12,Lucknow,Malaria,8
+2023-12,Lucknow,Cholera,3
+2023-12,Lucknow,Typhoid,15
+2023-12,Lucknow,Tuberculosis,27
+2023-12,Lucknow,Hepatitis A,5
+2024-01,Mumbai,Dengue,26
+2024-01,Mumbai,Malaria,7
+2024-01,Mumbai,Cholera,15
+2024-01,Mumbai,Typhoid,6
+2024-01,Mumbai,Tuberculosis,19
+2024-01,Mumbai,Hepatitis A,4
+2024-01,Delhi,Dengue,33
+2024-01,Delhi,Malaria,12
+2024-01,Delhi,Cholera,21
+2024-01,Delhi,Typhoid,11
+2024-01,Delhi,Tuberculosis,20
+2024-01,Delhi,Hepatitis A,22
+2024-01,Bengaluru,Dengue,9
+2024-01,Bengaluru,Malaria,5
+2024-01,Bengaluru,Cholera,18
+2024-01,Bengaluru,Typhoid,7
+2024-01,Bengaluru,Tuberculosis,17
+2024-01,Bengaluru,Hepatitis A,14
+2024-01,Hyderabad,Dengue,23
+2024-01,Hyderabad,Malaria,20
+2024-01,Hyderabad,Cholera,28
+2024-01,Hyderabad,Typhoid,23
+2024-01,Hyderabad,Tuberculosis,26
+2024-01,Hyderabad,Hepatitis A,13
+2024-01,Ahmedabad,Dengue,31
+2024-01,Ahmedabad,Malaria,12
+2024-01,Ahmedabad,Cholera,27
+2024-01,Ahmedabad,Typhoid,22
+2024-01,Ahmedabad,Tuberculosis,14
+2024-01,Ahmedabad,Hepatitis A,19
+2024-01,Chennai,Dengue,5
+2024-01,Chennai,Malaria,16
+2024-01,Chennai,Cholera,11
+2024-01,Chennai,Typhoid,6
+2024-01,Chennai,Tuberculosis,24
+2024-01,Chennai,Hepatitis A,13
+2024-01,Kolkata,Dengue,12
+2024-01,Kolkata,Malaria,13
+2024-01,Kolkata,Cholera,6
+2024-01,Kolkata,Typhoid,4
+2024-01,Kolkata,Tuberculosis,8
+2024-01,Kolkata,Hepatitis A,25
+2024-01,Pune,Dengue,11
+2024-01,Pune,Malaria,12
+2024-01,Pune,Cholera,16
+2024-01,Pune,Typhoid,17
+2024-01,Pune,Tuberculosis,8
+2024-01,Pune,Hepatitis A,28
+2024-01,Jaipur,Dengue,9
+2024-01,Jaipur,Malaria,7
+2024-01,Jaipur,Cholera,13
+2024-01,Jaipur,Typhoid,28
+2024-01,Jaipur,Tuberculosis,7
+2024-01,Jaipur,Hepatitis A,20
+2024-01,Lucknow,Dengue,41
+2024-01,Lucknow,Malaria,16
+2024-01,Lucknow,Cholera,23
+2024-01,Lucknow,Typhoid,6
+2024-01,Lucknow,Tuberculosis,19
+2024-01,Lucknow,Hepatitis A,9
+2024-02,Mumbai,Dengue,34
+2024-02,Mumbai,Malaria,25
+2024-02,Mumbai,Cholera,22
+2024-02,Mumbai,Typhoid,22
+2024-02,Mumbai,Tuberculosis,12
+2024-02,Mumbai,Hepatitis A,5
+2024-02,Delhi,Dengue,25
+2024-02,Delhi,Malaria,4
+2024-02,Delhi,Cholera,15
+2024-02,Delhi,Typhoid,8
+2024-02,Delhi,Tuberculosis,22
+2024-02,Delhi,Hepatitis A,16
+2024-02,Bengaluru,Dengue,27
+2024-02,Bengaluru,Malaria,27
+2024-02,Bengaluru,Cholera,18
+2024-02,Bengaluru,Typhoid,21
+2024-02,Bengaluru,Tuberculosis,30
+2024-02,Bengaluru,Hepatitis A,21
+2024-02,Hyderabad,Dengue,27
+2024-02,Hyderabad,Malaria,27
+2024-02,Hyderabad,Cholera,26
+2024-02,Hyderabad,Typhoid,40
+2024-02,Hyderabad,Tuberculosis,13
+2024-02,Hyderabad,Hepatitis A,6
+2024-02,Ahmedabad,Dengue,13
+2024-02,Ahmedabad,Malaria,27
+2024-02,Ahmedabad,Cholera,10
+2024-02,Ahmedabad,Typhoid,26
+2024-02,Ahmedabad,Tuberculosis,4
+2024-02,Ahmedabad,Hepatitis A,29
+2024-02,Chennai,Dengue,22
+2024-02,Chennai,Malaria,13
+2024-02,Chennai,Cholera,10
+2024-02,Chennai,Typhoid,27
+2024-02,Chennai,Tuberculosis,28
+2024-02,Chennai,Hepatitis A,22
+2024-02,Kolkata,Dengue,14
+2024-02,Kolkata,Malaria,24
+2024-02,Kolkata,Cholera,21
+2024-02,Kolkata,Typhoid,14
+2024-02,Kolkata,Tuberculosis,30
+2024-02,Kolkata,Hepatitis A,4
+2024-02,Pune,Dengue,15
+2024-02,Pune,Malaria,12
+2024-02,Pune,Cholera,32
+2024-02,Pune,Typhoid,6
+2024-02,Pune,Tuberculosis,10
+2024-02,Pune,Hepatitis A,14
+2024-02,Jaipur,Dengue,27
+2024-02,Jaipur,Malaria,26
+2024-02,Jaipur,Cholera,27
+2024-02,Jaipur,Typhoid,8
+2024-02,Jaipur,Tuberculosis,18
+2024-02,Jaipur,Hepatitis A,6
+2024-02,Lucknow,Dengue,29
+2024-02,Lucknow,Malaria,22
+2024-02,Lucknow,Cholera,19
+2024-02,Lucknow,Typhoid,4
+2024-02,Lucknow,Tuberculosis,10
+2024-02,Lucknow,Hepatitis A,14
+2024-03,Mumbai,Dengue,13
+2024-03,Mumbai,Malaria,17
+2024-03,Mumbai,Cholera,22
+2024-03,Mumbai,Typhoid,5
+2024-03,Mumbai,Tuberculosis,18
+2024-03,Mumbai,Hepatitis A,34
+2024-03,Delhi,Dengue,17
+2024-03,Delhi,Malaria,19
+2024-03,Delhi,Cholera,15
+2024-03,Delhi,Typhoid,25
+2024-03,Delhi,Tuberculosis,9
+2024-03,Delhi,Hepatitis A,10
+2024-03,Bengaluru,Dengue,21
+2024-03,Bengaluru,Malaria,14
+2024-03,Bengaluru,Cholera,13
+2024-03,Bengaluru,Typhoid,3
+2024-03,Bengaluru,Tuberculosis,11
+2024-03,Bengaluru,Hepatitis A,7
+2024-03,Hyderabad,Dengue,17
+2024-03,Hyderabad,Malaria,9
+2024-03,Hyderabad,Cholera,11
+2024-03,Hyderabad,Typhoid,24
+2024-03,Hyderabad,Tuberculosis,14
+2024-03,Hyderabad,Hepatitis A,7
+2024-03,Ahmedabad,Dengue,10
+2024-03,Ahmedabad,Malaria,28
+2024-03,Ahmedabad,Cholera,20
+2024-03,Ahmedabad,Typhoid,3
+2024-03,Ahmedabad,Tuberculosis,11
+2024-03,Ahmedabad,Hepatitis A,21
+2024-03,Chennai,Dengue,25
+2024-03,Chennai,Malaria,21
+2024-03,Chennai,Cholera,10
+2024-03,Chennai,Typhoid,6
+2024-03,Chennai,Tuberculosis,10
+2024-03,Chennai,Hepatitis A,20
+2024-03,Kolkata,Dengue,13
+2024-03,Kolkata,Malaria,6
+2024-03,Kolkata,Cholera,20
+2024-03,Kolkata,Typhoid,34
+2024-03,Kolkata,Tuberculosis,26
+2024-03,Kolkata,Hepatitis A,10
+2024-03,Pune,Dengue,10
+2024-03,Pune,Malaria,9
+2024-03,Pune,Cholera,14
+2024-03,Pune,Typhoid,23
+2024-03,Pune,Tuberculosis,11
+2024-03,Pune,Hepatitis A,11
+2024-03,Jaipur,Dengue,17
+2024-03,Jaipur,Malaria,25
+2024-03,Jaipur,Cholera,31
+2024-03,Jaipur,Typhoid,23
+2024-03,Jaipur,Tuberculosis,11
+2024-03,Jaipur,Hepatitis A,13
+2024-03,Lucknow,Dengue,14
+2024-03,Lucknow,Malaria,11
+2024-03,Lucknow,Cholera,16
+2024-03,Lucknow,Typhoid,11
+2024-03,Lucknow,Tuberculosis,11
+2024-03,Lucknow,Hepatitis A,19
+2024-04,Mumbai,Dengue,11
+2024-04,Mumbai,Malaria,20
+2024-04,Mumbai,Cholera,13
+2024-04,Mumbai,Typhoid,21
+2024-04,Mumbai,Tuberculosis,21
+2024-04,Mumbai,Hepatitis A,7
+2024-04,Delhi,Dengue,15
+2024-04,Delhi,Malaria,17
+2024-04,Delhi,Cholera,21
+2024-04,Delhi,Typhoid,19
+2024-04,Delhi,Tuberculosis,13
+2024-04,Delhi,Hepatitis A,19
+2024-04,Bengaluru,Dengue,12
+2024-04,Bengaluru,Malaria,31
+2024-04,Bengaluru,Cholera,29
+2024-04,Bengaluru,Typhoid,20
+2024-04,Bengaluru,Tuberculosis,15
+2024-04,Bengaluru,Hepatitis A,25
+2024-04,Hyderabad,Dengue,4
+2024-04,Hyderabad,Malaria,16
+2024-04,Hyderabad,Cholera,13
+2024-04,Hyderabad,Typhoid,14
+2024-04,Hyderabad,Tuberculosis,22
+2024-04,Hyderabad,Hepatitis A,32
+2024-04,Ahmedabad,Dengue,29
+2024-04,Ahmedabad,Malaria,16
+2024-04,Ahmedabad,Cholera,18
+2024-04,Ahmedabad,Typhoid,13
+2024-04,Ahmedabad,Tuberculosis,19
+2024-04,Ahmedabad,Hepatitis A,19
+2024-04,Chennai,Dengue,28
+2024-04,Chennai,Malaria,5
+2024-04,Chennai,Cholera,31
+2024-04,Chennai,Typhoid,14
+2024-04,Chennai,Tuberculosis,15
+2024-04,Chennai,Hepatitis A,31
+2024-04,Kolkata,Dengue,10
+2024-04,Kolkata,Malaria,5
+2024-04,Kolkata,Cholera,28
+2024-04,Kolkata,Typhoid,24
+2024-04,Kolkata,Tuberculosis,24
+2024-04,Kolkata,Hepatitis A,21
+2024-04,Pune,Dengue,17
+2024-04,Pune,Malaria,19
+2024-04,Pune,Cholera,16
+2024-04,Pune,Typhoid,4
+2024-04,Pune,Tuberculosis,34
+2024-04,Pune,Hepatitis A,9
+2024-04,Jaipur,Dengue,18
+2024-04,Jaipur,Malaria,26
+2024-04,Jaipur,Cholera,18
+2024-04,Jaipur,Typhoid,35
+2024-04,Jaipur,Tuberculosis,22
+2024-04,Jaipur,Hepatitis A,9
+2024-04,Lucknow,Dengue,11
+2024-04,Lucknow,Malaria,29
+2024-04,Lucknow,Cholera,11
+2024-04,Lucknow,Typhoid,12
+2024-04,Lucknow,Tuberculosis,8
+2024-04,Lucknow,Hepatitis A,23
+2024-05,Mumbai,Dengue,20
+2024-05,Mumbai,Malaria,32
+2024-05,Mumbai,Cholera,5
+2024-05,Mumbai,Typhoid,7
+2024-05,Mumbai,Tuberculosis,4
+2024-05,Mumbai,Hepatitis A,36
+2024-05,Delhi,Dengue,19
+2024-05,Delhi,Malaria,15
+2024-05,Delhi,Cholera,10
+2024-05,Delhi,Typhoid,10
+2024-05,Delhi,Tuberculosis,16
+2024-05,Delhi,Hepatitis A,15
+2024-05,Bengaluru,Dengue,29
+2024-05,Bengaluru,Malaria,15
+2024-05,Bengaluru,Cholera,28
+2024-05,Bengaluru,Typhoid,16
+2024-05,Bengaluru,Tuberculosis,22
+2024-05,Bengaluru,Hepatitis A,13
+2024-05,Hyderabad,Dengue,21
+2024-05,Hyderabad,Malaria,18
+2024-05,Hyderabad,Cholera,10
+2024-05,Hyderabad,Typhoid,12
+2024-05,Hyderabad,Tuberculosis,23
+2024-05,Hyderabad,Hepatitis A,7
+2024-05,Ahmedabad,Dengue,23
+2024-05,Ahmedabad,Malaria,17
+2024-05,Ahmedabad,Cholera,14
+2024-05,Ahmedabad,Typhoid,28
+2024-05,Ahmedabad,Tuberculosis,30
+2024-05,Ahmedabad,Hepatitis A,34
+2024-05,Chennai,Dengue,21
+2024-05,Chennai,Malaria,3
+2024-05,Chennai,Cholera,15
+2024-05,Chennai,Typhoid,9
+2024-05,Chennai,Tuberculosis,6
+2024-05,Chennai,Hepatitis A,8
+2024-05,Kolkata,Dengue,12
+2024-05,Kolkata,Malaria,15
+2024-05,Kolkata,Cholera,25
+2024-05,Kolkata,Typhoid,3
+2024-05,Kolkata,Tuberculosis,13
+2024-05,Kolkata,Hepatitis A,22
+2024-05,Pune,Dengue,22
+2024-05,Pune,Malaria,30
+2024-05,Pune,Cholera,5
+2024-05,Pune,Typhoid,21
+2024-05,Pune,Tuberculosis,21
+2024-05,Pune,Hepatitis A,9
+2024-05,Jaipur,Dengue,14
+2024-05,Jaipur,Malaria,17
+2024-05,Jaipur,Cholera,17
+2024-05,Jaipur,Typhoid,35
+2024-05,Jaipur,Tuberculosis,14
+2024-05,Jaipur,Hepatitis A,26
+2024-05,Lucknow,Dengue,18
+2024-05,Lucknow,Malaria,6
+2024-05,Lucknow,Cholera,17
+2024-05,Lucknow,Typhoid,11
+2024-05,Lucknow,Tuberculosis,6
+2024-05,Lucknow,Hepatitis A,28
+2024-06,Mumbai,Dengue,11
+2024-06,Mumbai,Malaria,22
+2024-06,Mumbai,Cholera,24
+2024-06,Mumbai,Typhoid,33
+2024-06,Mumbai,Tuberculosis,16
+2024-06,Mumbai,Hepatitis A,19
+2024-06,Delhi,Dengue,17
+2024-06,Delhi,Malaria,34
+2024-06,Delhi,Cholera,19
+2024-06,Delhi,Typhoid,17
+2024-06,Delhi,Tuberculosis,29
+2024-06,Delhi,Hepatitis A,16
+2024-06,Bengaluru,Dengue,6
+2024-06,Bengaluru,Malaria,8
+2024-06,Bengaluru,Cholera,24
+2024-06,Bengaluru,Typhoid,26
+2024-06,Bengaluru,Tuberculosis,21
+2024-06,Bengaluru,Hepatitis A,5
+2024-06,Hyderabad,Dengue,4
+2024-06,Hyderabad,Malaria,5
+2024-06,Hyderabad,Cholera,12
+2024-06,Hyderabad,Typhoid,14
+2024-06,Hyderabad,Tuberculosis,9
+2024-06,Hyderabad,Hepatitis A,21
+2024-06,Ahmedabad,Dengue,20
+2024-06,Ahmedabad,Malaria,2
+2024-06,Ahmedabad,Cholera,23
+2024-06,Ahmedabad,Typhoid,17
+2024-06,Ahmedabad,Tuberculosis,39
+2024-06,Ahmedabad,Hepatitis A,15
+2024-06,Chennai,Dengue,16
+2024-06,Chennai,Malaria,22
+2024-06,Chennai,Cholera,2
+2024-06,Chennai,Typhoid,23
+2024-06,Chennai,Tuberculosis,3
+2024-06,Chennai,Hepatitis A,8
+2024-06,Kolkata,Dengue,21
+2024-06,Kolkata,Malaria,6
+2024-06,Kolkata,Cholera,24
+2024-06,Kolkata,Typhoid,32
+2024-06,Kolkata,Tuberculosis,29
+2024-06,Kolkata,Hepatitis A,25
+2024-06,Pune,Dengue,23
+2024-06,Pune,Malaria,16
+2024-06,Pune,Cholera,20
+2024-06,Pune,Typhoid,19
+2024-06,Pune,Tuberculosis,24
+2024-06,Pune,Hepatitis A,25
+2024-06,Jaipur,Dengue,22
+2024-06,Jaipur,Malaria,6
+2024-06,Jaipur,Cholera,26
+2024-06,Jaipur,Typhoid,34
+2024-06,Jaipur,Tuberculosis,18
+2024-06,Jaipur,Hepatitis A,9
+2024-06,Lucknow,Dengue,20
+2024-06,Lucknow,Malaria,31
+2024-06,Lucknow,Cholera,22
+2024-06,Lucknow,Typhoid,18
+2024-06,Lucknow,Tuberculosis,26
+2024-06,Lucknow,Hepatitis A,20
+2024-07,Mumbai,Dengue,33
+2024-07,Mumbai,Malaria,11
+2024-07,Mumbai,Cholera,19
+2024-07,Mumbai,Typhoid,21
+2024-07,Mumbai,Tuberculosis,17
+2024-07,Mumbai,Hepatitis A,24
+2024-07,Delhi,Dengue,25
+2024-07,Delhi,Malaria,14
+2024-07,Delhi,Cholera,21
+2024-07,Delhi,Typhoid,8
+2024-07,Delhi,Tuberculosis,21
+2024-07,Delhi,Hepatitis A,4
+2024-07,Bengaluru,Dengue,35
+2024-07,Bengaluru,Malaria,23
+2024-07,Bengaluru,Cholera,23
+2024-07,Bengaluru,Typhoid,16
+2024-07,Bengaluru,Tuberculosis,24
+2024-07,Bengaluru,Hepatitis A,28
+2024-07,Hyderabad,Dengue,10
+2024-07,Hyderabad,Malaria,29
+2024-07,Hyderabad,Cholera,5
+2024-07,Hyderabad,Typhoid,6
+2024-07,Hyderabad,Tuberculosis,22
+2024-07,Hyderabad,Hepatitis A,19
+2024-07,Ahmedabad,Dengue,23
+2024-07,Ahmedabad,Malaria,26
+2024-07,Ahmedabad,Cholera,31
+2024-07,Ahmedabad,Typhoid,9
+2024-07,Ahmedabad,Tuberculosis,23
+2024-07,Ahmedabad,Hepatitis A,12
+2024-07,Chennai,Dengue,20
+2024-07,Chennai,Malaria,5
+2024-07,Chennai,Cholera,30
+2024-07,Chennai,Typhoid,22
+2024-07,Chennai,Tuberculosis,3
+2024-07,Chennai,Hepatitis A,10
+2024-07,Kolkata,Dengue,31
+2024-07,Kolkata,Malaria,34
+2024-07,Kolkata,Cholera,23
+2024-07,Kolkata,Typhoid,8
+2024-07,Kolkata,Tuberculosis,24
+2024-07,Kolkata,Hepatitis A,11
+2024-07,Pune,Dengue,5
+2024-07,Pune,Malaria,7
+2024-07,Pune,Cholera,21
+2024-07,Pune,Typhoid,21
+2024-07,Pune,Tuberculosis,5
+2024-07,Pune,Hepatitis A,37
+2024-07,Jaipur,Dengue,12
+2024-07,Jaipur,Malaria,22
+2024-07,Jaipur,Cholera,14
+2024-07,Jaipur,Typhoid,16
+2024-07,Jaipur,Tuberculosis,6
+2024-07,Jaipur,Hepatitis A,14
+2024-07,Lucknow,Dengue,9
+2024-07,Lucknow,Malaria,26
+2024-07,Lucknow,Cholera,28
+2024-07,Lucknow,Typhoid,16
+2024-07,Lucknow,Tuberculosis,33
+2024-07,Lucknow,Hepatitis A,27
+2024-08,Mumbai,Dengue,23
+2024-08,Mumbai,Malaria,29
+2024-08,Mumbai,Cholera,2
+2024-08,Mumbai,Typhoid,12
+2024-08,Mumbai,Tuberculosis,26
+2024-08,Mumbai,Hepatitis A,13
+2024-08,Delhi,Dengue,19
+2024-08,Delhi,Malaria,13
+2024-08,Delhi,Cholera,20
+2024-08,Delhi,Typhoid,14
+2024-08,Delhi,Tuberculosis,23
+2024-08,Delhi,Hepatitis A,3
+2024-08,Bengaluru,Dengue,22
+2024-08,Bengaluru,Malaria,21
+2024-08,Bengaluru,Cholera,40
+2024-08,Bengaluru,Typhoid,12
+2024-08,Bengaluru,Tuberculosis,16
+2024-08,Bengaluru,Hepatitis A,13
+2024-08,Hyderabad,Dengue,9
+2024-08,Hyderabad,Malaria,7
+2024-08,Hyderabad,Cholera,13
+2024-08,Hyderabad,Typhoid,11
+2024-08,Hyderabad,Tuberculosis,32
+2024-08,Hyderabad,Hepatitis A,18
+2024-08,Ahmedabad,Dengue,16
+2024-08,Ahmedabad,Malaria,17
+2024-08,Ahmedabad,Cholera,37
+2024-08,Ahmedabad,Typhoid,12
+2024-08,Ahmedabad,Tuberculosis,5
+2024-08,Ahmedabad,Hepatitis A,8
+2024-08,Chennai,Dengue,19
+2024-08,Chennai,Malaria,18
+2024-08,Chennai,Cholera,10
+2024-08,Chennai,Typhoid,21
+2024-08,Chennai,Tuberculosis,14
+2024-08,Chennai,Hepatitis A,12
+2024-08,Kolkata,Dengue,13
+2024-08,Kolkata,Malaria,38
+2024-08,Kolkata,Cholera,21
+2024-08,Kolkata,Typhoid,6
+2024-08,Kolkata,Tuberculosis,13
+2024-08,Kolkata,Hepatitis A,8
+2024-08,Pune,Dengue,8
+2024-08,Pune,Malaria,22
+2024-08,Pune,Cholera,10
+2024-08,Pune,Typhoid,25
+2024-08,Pune,Tuberculosis,23
+2024-08,Pune,Hepatitis A,23
+2024-08,Jaipur,Dengue,21
+2024-08,Jaipur,Malaria,9
+2024-08,Jaipur,Cholera,14
+2024-08,Jaipur,Typhoid,22
+2024-08,Jaipur,Tuberculosis,2
+2024-08,Jaipur,Hepatitis A,6
+2024-08,Lucknow,Dengue,10
+2024-08,Lucknow,Malaria,19
+2024-08,Lucknow,Cholera,16
+2024-08,Lucknow,Typhoid,15
+2024-08,Lucknow,Tuberculosis,16
+2024-08,Lucknow,Hepatitis A,29
+2024-09,Mumbai,Dengue,16
+2024-09,Mumbai,Malaria,12
+2024-09,Mumbai,Cholera,13
+2024-09,Mumbai,Typhoid,23
+2024-09,Mumbai,Tuberculosis,18
+2024-09,Mumbai,Hepatitis A,24
+2024-09,Delhi,Dengue,6
+2024-09,Delhi,Malaria,26
+2024-09,Delhi,Cholera,34
+2024-09,Delhi,Typhoid,5
+2024-09,Delhi,Tuberculosis,26
+2024-09,Delhi,Hepatitis A,17
+2024-09,Bengaluru,Dengue,21
+2024-09,Bengaluru,Malaria,19
+2024-09,Bengaluru,Cholera,25
+2024-09,Bengaluru,Typhoid,32
+2024-09,Bengaluru,Tuberculosis,6
+2024-09,Bengaluru,Hepatitis A,19
+2024-09,Hyderabad,Dengue,20
+2024-09,Hyderabad,Malaria,10
+2024-09,Hyderabad,Cholera,14
+2024-09,Hyderabad,Typhoid,4
+2024-09,Hyderabad,Tuberculosis,5
+2024-09,Hyderabad,Hepatitis A,15
+2024-09,Ahmedabad,Dengue,17
+2024-09,Ahmedabad,Malaria,16
+2024-09,Ahmedabad,Cholera,8
+2024-09,Ahmedabad,Typhoid,23
+2024-09,Ahmedabad,Tuberculosis,9
+2024-09,Ahmedabad,Hepatitis A,6
+2024-09,Chennai,Dengue,14
+2024-09,Chennai,Malaria,21
+2024-09,Chennai,Cholera,9
+2024-09,Chennai,Typhoid,16
+2024-09,Chennai,Tuberculosis,33
+2024-09,Chennai,Hepatitis A,30
+2024-09,Kolkata,Dengue,4
+2024-09,Kolkata,Malaria,14
+2024-09,Kolkata,Cholera,12
+2024-09,Kolkata,Typhoid,19
+2024-09,Kolkata,Tuberculosis,3
+2024-09,Kolkata,Hepatitis A,30
+2024-09,Pune,Dengue,15
+2024-09,Pune,Malaria,13
+2024-09,Pune,Cholera,15
+2024-09,Pune,Typhoid,13
+2024-09,Pune,Tuberculosis,41
+2024-09,Pune,Hepatitis A,19
+2024-09,Jaipur,Dengue,33
+2024-09,Jaipur,Malaria,16
+2024-09,Jaipur,Cholera,12
+2024-09,Jaipur,Typhoid,4
+2024-09,Jaipur,Tuberculosis,15
+2024-09,Jaipur,Hepatitis A,4
+2024-09,Lucknow,Dengue,20
+2024-09,Lucknow,Malaria,9
+2024-09,Lucknow,Cholera,4
+2024-09,Lucknow,Typhoid,5
+2024-09,Lucknow,Tuberculosis,21
+2024-09,Lucknow,Hepatitis A,23
+2024-10,Mumbai,Dengue,22
+2024-10,Mumbai,Malaria,15
+2024-10,Mumbai,Cholera,32
+2024-10,Mumbai,Typhoid,20
+2024-10,Mumbai,Tuberculosis,30
+2024-10,Mumbai,Hepatitis A,25
+2024-10,Delhi,Dengue,12
+2024-10,Delhi,Malaria,32
+2024-10,Delhi,Cholera,19
+2024-10,Delhi,Typhoid,20
+2024-10,Delhi,Tuberculosis,26
+2024-10,Delhi,Hepatitis A,20
+2024-10,Bengaluru,Dengue,25
+2024-10,Bengaluru,Malaria,14
+2024-10,Bengaluru,Cholera,13
+2024-10,Bengaluru,Typhoid,21
+2024-10,Bengaluru,Tuberculosis,23
+2024-10,Bengaluru,Hepatitis A,8
+2024-10,Hyderabad,Dengue,3
+2024-10,Hyderabad,Malaria,20
+2024-10,Hyderabad,Cholera,18
+2024-10,Hyderabad,Typhoid,19
+2024-10,Hyderabad,Tuberculosis,22
+2024-10,Hyderabad,Hepatitis A,27
+2024-10,Ahmedabad,Dengue,26
+2024-10,Ahmedabad,Malaria,28
+2024-10,Ahmedabad,Cholera,17
+2024-10,Ahmedabad,Typhoid,12
+2024-10,Ahmedabad,Tuberculosis,12
+2024-10,Ahmedabad,Hepatitis A,10
+2024-10,Chennai,Dengue,16
+2024-10,Chennai,Malaria,17
+2024-10,Chennai,Cholera,20
+2024-10,Chennai,Typhoid,18
+2024-10,Chennai,Tuberculosis,9
+2024-10,Chennai,Hepatitis A,26
+2024-10,Kolkata,Dengue,24
+2024-10,Kolkata,Malaria,32
+2024-10,Kolkata,Cholera,25
+2024-10,Kolkata,Typhoid,16
+2024-10,Kolkata,Tuberculosis,30
+2024-10,Kolkata,Hepatitis A,23
+2024-10,Pune,Dengue,25
+2024-10,Pune,Malaria,7
+2024-10,Pune,Cholera,23
+2024-10,Pune,Typhoid,8
+2024-10,Pune,Tuberculosis,10
+2024-10,Pune,Hepatitis A,11
+2024-10,Jaipur,Dengue,16
+2024-10,Jaipur,Malaria,35
+2024-10,Jaipur,Cholera,11
+2024-10,Jaipur,Typhoid,13
+2024-10,Jaipur,Tuberculosis,6
+2024-10,Jaipur,Hepatitis A,23
+2024-10,Lucknow,Dengue,13
+2024-10,Lucknow,Malaria,14
+2024-10,Lucknow,Cholera,31
+2024-10,Lucknow,Typhoid,19
+2024-10,Lucknow,Tuberculosis,5
+2024-10,Lucknow,Hepatitis A,12
+2024-11,Mumbai,Dengue,25
+2024-11,Mumbai,Malaria,18
+2024-11,Mumbai,Cholera,14
+2024-11,Mumbai,Typhoid,26
+2024-11,Mumbai,Tuberculosis,18
+2024-11,Mumbai,Hepatitis A,10
+2024-11,Delhi,Dengue,6
+2024-11,Delhi,Malaria,5
+2024-11,Delhi,Cholera,28
+2024-11,Delhi,Typhoid,25
+2024-11,Delhi,Tuberculosis,24
+2024-11,Delhi,Hepatitis A,33
+2024-11,Bengaluru,Dengue,30
+2024-11,Bengaluru,Malaria,7
+2024-11,Bengaluru,Cholera,31
+2024-11,Bengaluru,Typhoid,19
+2024-11,Bengaluru,Tuberculosis,31
+2024-11,Bengaluru,Hepatitis A,12
+2024-11,Hyderabad,Dengue,22
+2024-11,Hyderabad,Malaria,7
+2024-11,Hyderabad,Cholera,20
+2024-11,Hyderabad,Typhoid,21
+2024-11,Hyderabad,Tuberculosis,5
+2024-11,Hyderabad,Hepatitis A,18
+2024-11,Ahmedabad,Dengue,24
+2024-11,Ahmedabad,Malaria,20
+2024-11,Ahmedabad,Cholera,22
+2024-11,Ahmedabad,Typhoid,26
+2024-11,Ahmedabad,Tuberculosis,17
+2024-11,Ahmedabad,Hepatitis A,9
+2024-11,Chennai,Dengue,16
+2024-11,Chennai,Malaria,15
+2024-11,Chennai,Cholera,24
+2024-11,Chennai,Typhoid,14
+2024-11,Chennai,Tuberculosis,12
+2024-11,Chennai,Hepatitis A,13
+2024-11,Kolkata,Dengue,24
+2024-11,Kolkata,Malaria,16
+2024-11,Kolkata,Cholera,20
+2024-11,Kolkata,Typhoid,19
+2024-11,Kolkata,Tuberculosis,16
+2024-11,Kolkata,Hepatitis A,33
+2024-11,Pune,Dengue,19
+2024-11,Pune,Malaria,10
+2024-11,Pune,Cholera,10
+2024-11,Pune,Typhoid,5
+2024-11,Pune,Tuberculosis,25
+2024-11,Pune,Hepatitis A,11
+2024-11,Jaipur,Dengue,20
+2024-11,Jaipur,Malaria,8
+2024-11,Jaipur,Cholera,17
+2024-11,Jaipur,Typhoid,11
+2024-11,Jaipur,Tuberculosis,12
+2024-11,Jaipur,Hepatitis A,6
+2024-11,Lucknow,Dengue,18
+2024-11,Lucknow,Malaria,31
+2024-11,Lucknow,Cholera,12
+2024-11,Lucknow,Typhoid,6
+2024-11,Lucknow,Tuberculosis,19
+2024-11,Lucknow,Hepatitis A,17
+2024-12,Mumbai,Dengue,8
+2024-12,Mumbai,Malaria,9
+2024-12,Mumbai,Cholera,21
+2024-12,Mumbai,Typhoid,22
+2024-12,Mumbai,Tuberculosis,15
+2024-12,Mumbai,Hepatitis A,4
+2024-12,Delhi,Dengue,17
+2024-12,Delhi,Malaria,14
+2024-12,Delhi,Cholera,26
+2024-12,Delhi,Typhoid,33
+2024-12,Delhi,Tuberculosis,14
+2024-12,Delhi,Hepatitis A,8
+2024-12,Bengaluru,Dengue,4
+2024-12,Bengaluru,Malaria,5
+2024-12,Bengaluru,Cholera,27
+2024-12,Bengaluru,Typhoid,10
+2024-12,Bengaluru,Tuberculosis,32
+2024-12,Bengaluru,Hepatitis A,26
+2024-12,Hyderabad,Dengue,16
+2024-12,Hyderabad,Malaria,11
+2024-12,Hyderabad,Cholera,21
+2024-12,Hyderabad,Typhoid,7
+2024-12,Hyderabad,Tuberculosis,35
+2024-12,Hyderabad,Hepatitis A,11
+2024-12,Ahmedabad,Dengue,22
+2024-12,Ahmedabad,Malaria,11
+2024-12,Ahmedabad,Cholera,7
+2024-12,Ahmedabad,Typhoid,21
+2024-12,Ahmedabad,Tuberculosis,14
+2024-12,Ahmedabad,Hepatitis A,20
+2024-12,Chennai,Dengue,28
+2024-12,Chennai,Malaria,30
+2024-12,Chennai,Cholera,27
+2024-12,Chennai,Typhoid,13
+2024-12,Chennai,Tuberculosis,19
+2024-12,Chennai,Hepatitis A,19
+2024-12,Kolkata,Dengue,5
+2024-12,Kolkata,Malaria,28
+2024-12,Kolkata,Cholera,5
+2024-12,Kolkata,Typhoid,7
+2024-12,Kolkata,Tuberculosis,15
+2024-12,Kolkata,Hepatitis A,19
+2024-12,Pune,Dengue,11
+2024-12,Pune,Malaria,27
+2024-12,Pune,Cholera,1
+2024-12,Pune,Typhoid,12
+2024-12,Pune,Tuberculosis,40
+2024-12,Pune,Hepatitis A,7
+2024-12,Jaipur,Dengue,38
+2024-12,Jaipur,Malaria,19
+2024-12,Jaipur,Cholera,35
+2024-12,Jaipur,Typhoid,26
+2024-12,Jaipur,Tuberculosis,21
+2024-12,Jaipur,Hepatitis A,34
+2024-12,Lucknow,Dengue,5
+2024-12,Lucknow,Malaria,17
+2024-12,Lucknow,Cholera,10
+2024-12,Lucknow,Typhoid,2
+2024-12,Lucknow,Tuberculosis,6
+2024-12,Lucknow,Hepatitis A,13
+2025-01,Mumbai,Dengue,16
+2025-01,Mumbai,Malaria,24
+2025-01,Mumbai,Cholera,1
+2025-01,Mumbai,Typhoid,22
+2025-01,Mumbai,Tuberculosis,5
+2025-01,Mumbai,Hepatitis A,17
+2025-01,Delhi,Dengue,9
+2025-01,Delhi,Malaria,37
+2025-01,Delhi,Cholera,23
+2025-01,Delhi,Typhoid,33
+2025-01,Delhi,Tuberculosis,15
+2025-01,Delhi,Hepatitis A,22
+2025-01,Bengaluru,Dengue,45
+2025-01,Bengaluru,Malaria,6
+2025-01,Bengaluru,Cholera,11
+2025-01,Bengaluru,Typhoid,13
+2025-01,Bengaluru,Tuberculosis,19
+2025-01,Bengaluru,Hepatitis A,16
+2025-01,Hyderabad,Dengue,25
+2025-01,Hyderabad,Malaria,12
+2025-01,Hyderabad,Cholera,13
+2025-01,Hyderabad,Typhoid,11
+2025-01,Hyderabad,Tuberculosis,14
+2025-01,Hyderabad,Hepatitis A,12
+2025-01,Ahmedabad,Dengue,21
+2025-01,Ahmedabad,Malaria,25
+2025-01,Ahmedabad,Cholera,4
+2025-01,Ahmedabad,Typhoid,16
+2025-01,Ahmedabad,Tuberculosis,19
+2025-01,Ahmedabad,Hepatitis A,16
+2025-01,Chennai,Dengue,25
+2025-01,Chennai,Malaria,14
+2025-01,Chennai,Cholera,22
+2025-01,Chennai,Typhoid,25
+2025-01,Chennai,Tuberculosis,12
+2025-01,Chennai,Hepatitis A,13
+2025-01,Kolkata,Dengue,31
+2025-01,Kolkata,Malaria,15
+2025-01,Kolkata,Cholera,13
+2025-01,Kolkata,Typhoid,2
+2025-01,Kolkata,Tuberculosis,28
+2025-01,Kolkata,Hepatitis A,17
+2025-01,Pune,Dengue,16
+2025-01,Pune,Malaria,25
+2025-01,Pune,Cholera,14
+2025-01,Pune,Typhoid,7
+2025-01,Pune,Tuberculosis,9
+2025-01,Pune,Hepatitis A,21
+2025-01,Jaipur,Dengue,9
+2025-01,Jaipur,Malaria,15
+2025-01,Jaipur,Cholera,23
+2025-01,Jaipur,Typhoid,20
+2025-01,Jaipur,Tuberculosis,25
+2025-01,Jaipur,Hepatitis A,3
+2025-01,Lucknow,Dengue,9
+2025-01,Lucknow,Malaria,15
+2025-01,Lucknow,Cholera,7
+2025-01,Lucknow,Typhoid,38
+2025-01,Lucknow,Tuberculosis,5
+2025-01,Lucknow,Hepatitis A,21
+2025-02,Mumbai,Dengue,21
+2025-02,Mumbai,Malaria,14
+2025-02,Mumbai,Cholera,20
+2025-02,Mumbai,Typhoid,6
+2025-02,Mumbai,Tuberculosis,20
+2025-02,Mumbai,Hepatitis A,29
+2025-02,Delhi,Dengue,31
+2025-02,Delhi,Malaria,19
+2025-02,Delhi,Cholera,5
+2025-02,Delhi,Typhoid,21
+2025-02,Delhi,Tuberculosis,36
+2025-02,Delhi,Hepatitis A,20
+2025-02,Bengaluru,Dengue,37
+2025-02,Bengaluru,Malaria,20
+2025-02,Bengaluru,Cholera,6
+2025-02,Bengaluru,Typhoid,24
+2025-02,Bengaluru,Tuberculosis,10
+2025-02,Bengaluru,Hepatitis A,20
+2025-02,Hyderabad,Dengue,21
+2025-02,Hyderabad,Malaria,24
+2025-02,Hyderabad,Cholera,21
+2025-02,Hyderabad,Typhoid,22
+2025-02,Hyderabad,Tuberculosis,11
+2025-02,Hyderabad,Hepatitis A,26
+2025-02,Ahmedabad,Dengue,11
+2025-02,Ahmedabad,Malaria,12
+2025-02,Ahmedabad,Cholera,20
+2025-02,Ahmedabad,Typhoid,17
+2025-02,Ahmedabad,Tuberculosis,25
+2025-02,Ahmedabad,Hepatitis A,6
+2025-02,Chennai,Dengue,7
+2025-02,Chennai,Malaria,10
+2025-02,Chennai,Cholera,30
+2025-02,Chennai,Typhoid,10
+2025-02,Chennai,Tuberculosis,23
+2025-02,Chennai,Hepatitis A,6
+2025-02,Kolkata,Dengue,19
+2025-02,Kolkata,Malaria,11
+2025-02,Kolkata,Cholera,18
+2025-02,Kolkata,Typhoid,7
+2025-02,Kolkata,Tuberculosis,15
+2025-02,Kolkata,Hepatitis A,30
+2025-02,Pune,Dengue,18
+2025-02,Pune,Malaria,18
+2025-02,Pune,Cholera,21
+2025-02,Pune,Typhoid,30
+2025-02,Pune,Tuberculosis,28
+2025-02,Pune,Hepatitis A,21
+2025-02,Jaipur,Dengue,11
+2025-02,Jaipur,Malaria,9
+2025-02,Jaipur,Cholera,18
+2025-02,Jaipur,Typhoid,37
+2025-02,Jaipur,Tuberculosis,18
+2025-02,Jaipur,Hepatitis A,19
+2025-02,Lucknow,Dengue,10
+2025-02,Lucknow,Malaria,16
+2025-02,Lucknow,Cholera,17
+2025-02,Lucknow,Typhoid,19
+2025-02,Lucknow,Tuberculosis,9
+2025-02,Lucknow,Hepatitis A,8
+2025-03,Mumbai,Dengue,5
+2025-03,Mumbai,Malaria,7
+2025-03,Mumbai,Cholera,4
+2025-03,Mumbai,Typhoid,12
+2025-03,Mumbai,Tuberculosis,19
+2025-03,Mumbai,Hepatitis A,7
+2025-03,Delhi,Dengue,17
+2025-03,Delhi,Malaria,8
+2025-03,Delhi,Cholera,9
+2025-03,Delhi,Typhoid,6
+2025-03,Delhi,Tuberculosis,26
+2025-03,Delhi,Hepatitis A,32
+2025-03,Bengaluru,Dengue,10
+2025-03,Bengaluru,Malaria,18
+2025-03,Bengaluru,Cholera,29
+2025-03,Bengaluru,Typhoid,25
+2025-03,Bengaluru,Tuberculosis,10
+2025-03,Bengaluru,Hepatitis A,16
+2025-03,Hyderabad,Dengue,23
+2025-03,Hyderabad,Malaria,20
+2025-03,Hyderabad,Cholera,10
+2025-03,Hyderabad,Typhoid,25
+2025-03,Hyderabad,Tuberculosis,22
+2025-03,Hyderabad,Hepatitis A,35
+2025-03,Ahmedabad,Dengue,23
+2025-03,Ahmedabad,Malaria,35
+2025-03,Ahmedabad,Cholera,22
+2025-03,Ahmedabad,Typhoid,11
+2025-03,Ahmedabad,Tuberculosis,24
+2025-03,Ahmedabad,Hepatitis A,16
+2025-03,Chennai,Dengue,25
+2025-03,Chennai,Malaria,4
+2025-03,Chennai,Cholera,19
+2025-03,Chennai,Typhoid,19
+2025-03,Chennai,Tuberculosis,10
+2025-03,Chennai,Hepatitis A,20
+2025-03,Kolkata,Dengue,28
+2025-03,Kolkata,Malaria,9
+2025-03,Kolkata,Cholera,20
+2025-03,Kolkata,Typhoid,16
+2025-03,Kolkata,Tuberculosis,26
+2025-03,Kolkata,Hepatitis A,21
+2025-03,Pune,Dengue,2
+2025-03,Pune,Malaria,18
+2025-03,Pune,Cholera,11
+2025-03,Pune,Typhoid,14
+2025-03,Pune,Tuberculosis,7
+2025-03,Pune,Hepatitis A,21
+2025-03,Jaipur,Dengue,11
+2025-03,Jaipur,Malaria,6
+2025-03,Jaipur,Cholera,3
+2025-03,Jaipur,Typhoid,10
+2025-03,Jaipur,Tuberculosis,30
+2025-03,Jaipur,Hepatitis A,24
+2025-03,Lucknow,Dengue,11
+2025-03,Lucknow,Malaria,27
+2025-03,Lucknow,Cholera,15
+2025-03,Lucknow,Typhoid,24
+2025-03,Lucknow,Tuberculosis,15
+2025-03,Lucknow,Hepatitis A,4
+2025-04,Mumbai,Dengue,18
+2025-04,Mumbai,Malaria,6
+2025-04,Mumbai,Cholera,29
+2025-04,Mumbai,Typhoid,20
+2025-04,Mumbai,Tuberculosis,35
+2025-04,Mumbai,Hepatitis A,37
+2025-04,Delhi,Dengue,6
+2025-04,Delhi,Malaria,22
+2025-04,Delhi,Cholera,32
+2025-04,Delhi,Typhoid,6
+2025-04,Delhi,Tuberculosis,7
+2025-04,Delhi,Hepatitis A,20
+2025-04,Bengaluru,Dengue,2
+2025-04,Bengaluru,Malaria,8
+2025-04,Bengaluru,Cholera,22
+2025-04,Bengaluru,Typhoid,16
+2025-04,Bengaluru,Tuberculosis,28
+2025-04,Bengaluru,Hepatitis A,10
+2025-04,Hyderabad,Dengue,3
+2025-04,Hyderabad,Malaria,16
+2025-04,Hyderabad,Cholera,23
+2025-04,Hyderabad,Typhoid,14
+2025-04,Hyderabad,Tuberculosis,24
+2025-04,Hyderabad,Hepatitis A,11
+2025-04,Ahmedabad,Dengue,15
+2025-04,Ahmedabad,Malaria,18
+2025-04,Ahmedabad,Cholera,2
+2025-04,Ahmedabad,Typhoid,21
+2025-04,Ahmedabad,Tuberculosis,21
+2025-04,Ahmedabad,Hepatitis A,14
+2025-04,Chennai,Dengue,22
+2025-04,Chennai,Malaria,22
+2025-04,Chennai,Cholera,18
+2025-04,Chennai,Typhoid,15
+2025-04,Chennai,Tuberculosis,3
+2025-04,Chennai,Hepatitis A,10
+2025-04,Kolkata,Dengue,23
+2025-04,Kolkata,Malaria,39
+2025-04,Kolkata,Cholera,24
+2025-04,Kolkata,Typhoid,24
+2025-04,Kolkata,Tuberculosis,12
+2025-04,Kolkata,Hepatitis A,20
+2025-04,Pune,Dengue,38
+2025-04,Pune,Malaria,31
+2025-04,Pune,Cholera,5
+2025-04,Pune,Typhoid,9
+2025-04,Pune,Tuberculosis,31
+2025-04,Pune,Hepatitis A,9
+2025-04,Jaipur,Dengue,8
+2025-04,Jaipur,Malaria,31
+2025-04,Jaipur,Cholera,32
+2025-04,Jaipur,Typhoid,12
+2025-04,Jaipur,Tuberculosis,19
+2025-04,Jaipur,Hepatitis A,13
+2025-04,Lucknow,Dengue,8
+2025-04,Lucknow,Malaria,18
+2025-04,Lucknow,Cholera,31
+2025-04,Lucknow,Typhoid,17
+2025-04,Lucknow,Tuberculosis,14
+2025-04,Lucknow,Hepatitis A,24
+2025-05,Mumbai,Dengue,18
+2025-05,Mumbai,Malaria,32
+2025-05,Mumbai,Cholera,19
+2025-05,Mumbai,Typhoid,16
+2025-05,Mumbai,Tuberculosis,14
+2025-05,Mumbai,Hepatitis A,26
+2025-05,Delhi,Dengue,18
+2025-05,Delhi,Malaria,11
+2025-05,Delhi,Cholera,20
+2025-05,Delhi,Typhoid,5
+2025-05,Delhi,Tuberculosis,33
+2025-05,Delhi,Hepatitis A,28
+2025-05,Bengaluru,Dengue,15
+2025-05,Bengaluru,Malaria,14
+2025-05,Bengaluru,Cholera,26
+2025-05,Bengaluru,Typhoid,11
+2025-05,Bengaluru,Tuberculosis,13
+2025-05,Bengaluru,Hepatitis A,22
+2025-05,Hyderabad,Dengue,9
+2025-05,Hyderabad,Malaria,30
+2025-05,Hyderabad,Cholera,26
+2025-05,Hyderabad,Typhoid,8
+2025-05,Hyderabad,Tuberculosis,24
+2025-05,Hyderabad,Hepatitis A,37
+2025-05,Ahmedabad,Dengue,38
+2025-05,Ahmedabad,Malaria,24
+2025-05,Ahmedabad,Cholera,11
+2025-05,Ahmedabad,Typhoid,14
+2025-05,Ahmedabad,Tuberculosis,31
+2025-05,Ahmedabad,Hepatitis A,12
+2025-05,Chennai,Dengue,13
+2025-05,Chennai,Malaria,23
+2025-05,Chennai,Cholera,36
+2025-05,Chennai,Typhoid,11
+2025-05,Chennai,Tuberculosis,32
+2025-05,Chennai,Hepatitis A,24
+2025-05,Kolkata,Dengue,36
+2025-05,Kolkata,Malaria,21
+2025-05,Kolkata,Cholera,5
+2025-05,Kolkata,Typhoid,24
+2025-05,Kolkata,Tuberculosis,8
+2025-05,Kolkata,Hepatitis A,4
+2025-05,Pune,Dengue,19
+2025-05,Pune,Malaria,10
+2025-05,Pune,Cholera,25
+2025-05,Pune,Typhoid,29
+2025-05,Pune,Tuberculosis,8
+2025-05,Pune,Hepatitis A,14
+2025-05,Jaipur,Dengue,9
+2025-05,Jaipur,Malaria,10
+2025-05,Jaipur,Cholera,13
+2025-05,Jaipur,Typhoid,33
+2025-05,Jaipur,Tuberculosis,10
+2025-05,Jaipur,Hepatitis A,14
+2025-05,Lucknow,Dengue,5
+2025-05,Lucknow,Malaria,30
+2025-05,Lucknow,Cholera,16
+2025-05,Lucknow,Typhoid,5
+2025-05,Lucknow,Tuberculosis,2
+2025-05,Lucknow,Hepatitis A,11
+2025-06,Mumbai,Dengue,19
+2025-06,Mumbai,Malaria,6
+2025-06,Mumbai,Cholera,25
+2025-06,Mumbai,Typhoid,16
+2025-06,Mumbai,Tuberculosis,34
+2025-06,Mumbai,Hepatitis A,25
+2025-06,Delhi,Dengue,8
+2025-06,Delhi,Malaria,7
+2025-06,Delhi,Cholera,10
+2025-06,Delhi,Typhoid,8
+2025-06,Delhi,Tuberculosis,13
+2025-06,Delhi,Hepatitis A,2
+2025-06,Bengaluru,Dengue,30
+2025-06,Bengaluru,Malaria,6
+2025-06,Bengaluru,Cholera,19
+2025-06,Bengaluru,Typhoid,28
+2025-06,Bengaluru,Tuberculosis,33
+2025-06,Bengaluru,Hepatitis A,11
+2025-06,Hyderabad,Dengue,13
+2025-06,Hyderabad,Malaria,30
+2025-06,Hyderabad,Cholera,25
+2025-06,Hyderabad,Typhoid,13
+2025-06,Hyderabad,Tuberculosis,26
+2025-06,Hyderabad,Hepatitis A,18
+2025-06,Ahmedabad,Dengue,16
+2025-06,Ahmedabad,Malaria,8
+2025-06,Ahmedabad,Cholera,30
+2025-06,Ahmedabad,Typhoid,38
+2025-06,Ahmedabad,Tuberculosis,26
+2025-06,Ahmedabad,Hepatitis A,16
+2025-06,Chennai,Dengue,24
+2025-06,Chennai,Malaria,6
+2025-06,Chennai,Cholera,6
+2025-06,Chennai,Typhoid,10
+2025-06,Chennai,Tuberculosis,22
+2025-06,Chennai,Hepatitis A,4
+2025-06,Kolkata,Dengue,15
+2025-06,Kolkata,Malaria,20
+2025-06,Kolkata,Cholera,10
+2025-06,Kolkata,Typhoid,5
+2025-06,Kolkata,Tuberculosis,16
+2025-06,Kolkata,Hepatitis A,18
+2025-06,Pune,Dengue,9
+2025-06,Pune,Malaria,22
+2025-06,Pune,Cholera,12
+2025-06,Pune,Typhoid,7
+2025-06,Pune,Tuberculosis,8
+2025-06,Pune,Hepatitis A,3
+2025-06,Jaipur,Dengue,9
+2025-06,Jaipur,Malaria,18
+2025-06,Jaipur,Cholera,20
+2025-06,Jaipur,Typhoid,12
+2025-06,Jaipur,Tuberculosis,31
+2025-06,Jaipur,Hepatitis A,13
+2025-06,Lucknow,Dengue,34
+2025-06,Lucknow,Malaria,13
+2025-06,Lucknow,Cholera,15
+2025-06,Lucknow,Typhoid,17
+2025-06,Lucknow,Tuberculosis,6
+2025-06,Lucknow,Hepatitis A,8
